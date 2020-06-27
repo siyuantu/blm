@@ -1,20 +1,21 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { IndexPageTemplate } from '../../templates/IndexPage';
+import { TalkingPointTemplate } from '../../templates/TalkingPoint';
 
-const IndexPagePreview = ({ entry }) => {
+const TalkingPointPreview = ({ entry }) => {
   const data = entry.getIn(['data']).toJS();
 
   if (data) {
-    return <IndexPageTemplate />;
+    return <TalkingPointTemplate />;
   }
+
   return <div>Loading...</div>;
 };
 
-IndexPagePreview.propTypes = {
+TalkingPointPreview.propTypes = {
   entry: PropTypes.shape({
     getIn: PropTypes.func,
   }).isRequired,
 };
 
-export default IndexPagePreview;
+export default TalkingPointPreview;
