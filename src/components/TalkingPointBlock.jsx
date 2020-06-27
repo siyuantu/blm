@@ -1,7 +1,7 @@
 import React from 'react';
 
 const TalkingPointBlock = () => {
-  return <TalkingPointBlock />;
+  return <div />;
 };
 
 export default TalkingPointBlock;
