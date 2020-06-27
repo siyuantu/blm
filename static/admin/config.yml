@@ -13,13 +13,11 @@ public_folder: /img
 
 collections:
   - name: "talking_points"
-    identifier_field: id
     label: "Talking points"
     folder: "src/talking_points"
     create: true
     fields:
-      - {label: "Id", name: "id", widget: "string"}
-      - {label: "Title (en)", name: "title_en", widget: "markdown"}
-      - {label: "Title (zh)", name: "title_zh", widget: "markdown"}
-      - {label: "Rebuttal (en)", name: "rebuttal_en", widget: "markdown"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Title (zh)", name: "title_zh", widget: "string"}
+      - {label: "Rebuttal", name: "rebuttal", widget: "markdown"}
       - {label: "Rebuttal (zh)", name: "rebuttal_zh", widget: "markdown"}
