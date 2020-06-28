@@ -194,6 +194,10 @@ const TalkingPointsGrid = ({ maxBlockSizePx }) => {
   }, [containerRef, handleResize]);
 
   useEffect(() => {
+    if (typeof window === 'undefined') {
+      return;
+    }
+
     setRebuttalPaneHeightIsAnimating(true);
 
     if (!selectedTalkingPointTitle) {

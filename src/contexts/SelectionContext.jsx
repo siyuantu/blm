@@ -39,7 +39,7 @@ export const SelectionProvider = ({ children }) => {
   }, [getHashForTitle, talkingPoints]);
 
   useEffect(() => {
-    if (!isMounted.current) {
+    if (!isMounted.current || typeof window === 'undefined') {
       return;
     }
 
@@ -57,10 +57,14 @@ export const SelectionProvider = ({ children }) => {
   }, [getHashForTitle, selectedTalkingPointTitle]);
 
   useEffect(() => {
-    window.addEventListener('hashchange', handleHashChange, false);
+    if (typeof window !== 'undefined') {
+      window.addEventListener('hashchange', handleHashChange, false);
+    }
 
     return () => {
-      window.removeEventListener('hashchange', handleHashChange, false);
+      if (typeof window !== 'undefined') {
+        window.removeEventListener('hashchange', handleHashChange, false);
+      }
     };
   }, [handleHashChange]);
 

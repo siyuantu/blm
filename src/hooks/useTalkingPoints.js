@@ -23,7 +23,8 @@ export default function useTalkingPoints() {
 
   const { nodes } = data.allMarkdownRemark;
 
-  const isTestMode = window.location.search === '?test';
+  const isTestMode =
+    typeof window !== 'undefined' && window.location.search === '?test';
 
   const entries = isTestMode
     ? new Array(16).fill(null).map((_, i) => ({
