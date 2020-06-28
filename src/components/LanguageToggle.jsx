@@ -14,10 +14,10 @@ const LanguageToggle = () => {
   }, [setLanguage]);
 
   return (
-    <div className="buttons is-large">
+    <div className="language-toggle">
       <button
-        className={`button is-text ${
-          language === 'en' ? 'is-info is-selected' : ''
+        className={`language-toggle__button ${
+          language === 'en' ? 'language-toggle__button--selected' : ''
         }`}
         type="button"
         onClick={language !== 'en' ? setEnglish : undefined}
@@ -26,8 +26,8 @@ const LanguageToggle = () => {
       </button>
       |
       <button
-        className={`button is-text ${
-          language === 'zh' ? 'is-info is-selected' : ''
+        className={`language-toggle__button ${
+          language === 'zh' ? 'language-toggle__button--selected' : ''
         }`}
         type="button"
         onClick={language !== 'zh' ? setMandarin : undefined}

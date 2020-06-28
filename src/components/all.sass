@@ -4,46 +4,102 @@
 $primary: #FFF
 $primary-invert: #000
 $background: #000
+$text: #FFF
 
-body
+html, body
   min-height: 100vh
   background-color: $background
   color: $white
+
+.page-wrapper
+  display: flex
+  flex-direction: column
+  min-height: 100vh
+  align-items: center
+
+.page
+  max-width: 1440px
+  width: 100%
+  padding: 2em 0
+
+.language-toggle
+  font-size: 2.5em
+
+.language-toggle__button
+  padding: 0 0.25em
+  background: none
+  border: none
+  -webkit-appearance: none
+  appearance: none
+  color: inherit
+  font-size: inherit
+  font-weight: 600
+
+.page-header, .page-footer
+  margin-top: 1em
+  font-size: 2.5em
+
+.page-footer
+  text-align: center
+
+.talking-points-grid
+  position: relative
+  margin-top: 10em
+
+  &__talking-points-wrapper
+    list-style-type: none
+
+  &__rebuttal-pane-wrapper
+    position: absolute
+    top: 0
+    left: 0
+    right: 0
+    transform: translate3d(0, 0, 0)
+    transition: height 250ms ease
 
 .talking-point
   padding: 3em
   width: 20em
   height: 20em
 
-.talking-point__title
-  font-size: 1.5em
-  font-weight: 600
+  &:focus,
+  &--is-selected
+    z-index: 1
+
+  &__title
+    font-size: 1.5em
+    font-weight: 600
 
 .rebuttal-pane
-  position: absolute
-  left: 0
-  right: 0
-  transform: translate3d(0, 0, 0)
-  padding: 3em
-  min-height: 20em
 
-.rebuttal-pane__markdown * + *
-  margin-top: 1em
+  &__content
+    min-height: 20em
+    padding: 3em
 
-.rebuttal-pane a
-  color: currentColor
-  text-decoration: underline
+  &__markdown * + *
+    margin-top: 1em
 
-.rebuttal-pane h2
-  font-size: 1.5em
-  font-weight: 600
+  a
+    color: currentColor
+    text-decoration: underline
 
-.rebuttal-pane__close-button
-  position: absolute
-  top: 2em
-  right: 1em
-  background: none
-  border: none
-  -webkit-appearance: none
+    &:visited
+      color: currentColor
+
+  h2
+    font-size: 1.5em
+    font-weight: 600
+
+  &__close-button
+    position: absolute
+    top: 2em
+    right: 1em
+    background: none
+    border: none
+    -webkit-appearance: none
+    color: inherit
+
+  &__close-icon
+    fill: currentColor
 
 @import "~bulma"

@@ -23,13 +23,25 @@ export default function useTalkingPoints() {
 
   const { nodes } = data.allMarkdownRemark;
 
+  const isTestMode = window.location.search === '?test';
+
+  const entries = isTestMode
+    ? new Array(16).fill(null).map((_, i) => ({
+        ...nodes[0],
+        frontmatter: {
+          ...nodes[0].frontmatter,
+          title: `${nodes[0].frontmatter.title} ${i}`,
+        },
+      }))
+    : nodes;
+
   const talkingPoints = useMemo(
     () =>
-      nodes.map((node, i) => {
+      entries.map((entry, i) => {
         const random = seedrandom(i);
-        const randomHue = 20 + 20 * random();
-        const randomSaturation = 30 + 50 * random();
-        const randomLightness = 10 + 70 * random();
+        const randomHue = 15 + 20 * random();
+        const randomSaturation = 30 + 20 * random();
+        const randomLightness = 5 + 60 * random() ** 2;
 
         const color = tinycolor(
           `hsla(${randomHue}, ${randomSaturation}%, ${randomLightness}%, 1)`
@@ -40,12 +52,12 @@ export default function useTalkingPoints() {
           .toHexString();
 
         return {
-          ...node.frontmatter,
+          ...entry.frontmatter,
           color,
           contrastColor,
         };
       }),
-    [nodes]
+    [entries]
   );
 
   return talkingPoints;
