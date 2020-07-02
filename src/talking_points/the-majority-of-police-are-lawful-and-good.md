@@ -2,31 +2,15 @@
 title: The majority of police are lawful and good.
 title_zh: Tλè ₥áJôřïƭ¥ ôƒ ƥôℓïçè ářè ℓáωƒúℓ áñδ ϱôôδ.
 rebuttal: >-
-  "I would never condone violence, ever," says Elijah Norris-Holiday, a
-  24-year-old activist in the Twin Cities who has been organizing peaceful
-  daytime protests and who was so distraught after seeing the video of Floyd's
-  death that he didn't sleep for days. "But sometimes, when people feel their
-  voices are being ignored over and over and over, violence is the only other
-  answer. They have to burn their own community down to get people to listen to
-  them. We're at a breaking point."
+  When people say "there are no good cops," it doesn't mean that all cops are
+  inherently bad people with bad motives. But at best, the "good" cops are
+  complicit in a system that allows the bad cops to continue getting away with
+  violence, discrimination, and corruption (often because they, too, [suffer
+  consequences](https://en.wikipedia.org/wiki/Blue_wall_of_silence) for calling
+  them out). 
 
 
-  ## Ask Yourself
-
-
-  Who is instigating the violence?
-
-
-  ## Learn more
-
-
-  [The 'Concerned Citizen Who Happens To Be Armed' Is Showing Up At Protests](applewebdata://4DDC06B3-C968-4607-8FB3-E4C313C1EF76)
-
-
-  [The Double Standard of the American Riot](applewebdata://4DDC06B3-C968-4607-8FB3-E4C313C1EF76)
-
-
-  *Many people are asking if violence is a valid means of producing societal change. The hard and historical answer is yes. Riots have a way of magnifying not merely the flaws in the system, but also the strength of those in power.*
+  In the U.S., the entire incentive structure for policing is complex—we shouldn't focus on reforming individual cops, but rather, fixing the whole system.
 rebuttal_zh: >-
   "Ì ωôúℓδ ñèƲèř çôñδôñè Ʋïôℓèñçè, èƲèř," ƨá¥ƨ ÉℓïJáλ Nôřřïƨ-Hôℓïδá¥, á
   24-¥èář-ôℓδ áçƭïƲïƨƭ ïñ ƭλè Tωïñ Çïƭïèƨ ωλô λáƨ βèèñ ôřϱáñïƺïñϱ ƥèáçèƒúℓ
