@@ -9,13 +9,25 @@ rebuttal: >-
   risk, and some cities have announced free COVID-19 tests for protesters.
 
 
-
-
   Protesters are weighing the pandemic and racism both as threats to public health—because both threaten our quality of life. And for them, the dangers of white supremacy outweigh the dangers of Covid-19. In fact, hundreds of public health and disease experts signed an open letter stating that the protests are justified, because “white supremacy is a lethal public health issue that predates and contributes to Covid-19.” They called the protests “vital to the national public health and to the threatened health specifically of black people in the United States.”
 
 
-
-
   There are ways to protest powerfully but more safely—for example, attending small, local protests, where participants can more easily spread themselves out.
+
+
+
+
+  # Ask Yourself
+
+
+  Does the protest not feel urgent to you? Consider whether that comes from a privileged position.
+
+
+  # Learn More
+
+
+  [A Delicate Balance: Weighing Protest Against the Risks of the Coronavirus (NYT) ](https://www.nytimes.com/2020/06/07/us/Protest-coronavirus-george-floyd.html)\
+
+  Vidal Guzman, 29, a protester in New York, said: “People are more scared of the police than Covid-19. They are willing to do anything.”
 rebuttal_zh: \[ ]
 ---
