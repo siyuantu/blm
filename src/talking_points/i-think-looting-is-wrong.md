@@ -12,5 +12,24 @@ rebuttal: >-
 
 
   Looting happens partly because of protests, and protests happen because of more systemic issues in society. To stop people from looting, we have to examine the root causes and create systemic change.
+
+
+
+
+  # Ask Yourself
+
+
+  Have you witnessed who is doing the looting, or have you made an assumption?
+
+
+  # Learn More
+
+
+  [In Defense of Looting (The New Inquiry)](https://thenewinquiry.com/in-defense-of-looting/)
+
+
+  [Why People Loot (The Atlantic) ](https://www.theatlantic.com/health/archive/2020/06/why-people-loot/612577/)\
+
+  As Christian Davenport, a political-science professor at the University of Michigan, put it to me, “the best way to prevent looting is to provide individuals with a living wage, provide for their basic needs, treat them with human dignity, and facilitate a life that is about thriving.”
 rebuttal_zh: \[ ]
 ---
