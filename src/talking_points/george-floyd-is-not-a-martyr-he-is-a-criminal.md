@@ -7,5 +7,8 @@ rebuttal: >-
 
 
   Whatever his past, it doesn’t take away Floyd’s right to a fair trial. He doesn’t have to be a martyr for his death to be unacceptable and unjust. Since Jan. 1, 2015, 1,252 black people have been shot and killed by police, which does not even count those who died during arrest or in custody.
+
+
+  A criminal history should not matter when a cop is making an arrest—it does not justify excessive force or murder, especially when the person is already restrained.
 rebuttal_zh: \[]
 ---
