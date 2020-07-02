@@ -2,13 +2,20 @@
 title: I don't support violent protests.
 title_zh: "[]"
 rebuttal: >-
-  “I would never condone violence, ever,” says Elijah Norris-Holliday, a
-  24-year-old activist in the Twin Cities who has been organizing peaceful
-  daytime protests and who was so distraught after seeing the video of Floyd’s
-  death that he didn’t sleep for days. “But sometimes, when people feel like
-  their voices are being ignored over and over and over, violence is the only
-  other answer. They have to burn their own community down to get people to
-  listen to them. We’re at a breaking point.”
+  Protests are meant to act as a sustained disruptions that will inflict change
+  in the existing system. When peaceful protests (for example, Colin
+  Kaepernick's protests during NFL games) do not enact change, people feel
+  repeatedly ignored and create more powerful demonstrations. “I would never
+  condone violence, ever,” says Elijah Norris-Holliday, a 24-year-old activist
+  in the Twin Cities who has been organizing peaceful daytime protests and who
+  was so distraught after seeing the video of Floyd’s death that he didn’t sleep
+  for days. “But sometimes, when people feel like their voices are being ignored
+  over and over and over, violence is the only other answer. They have to burn
+  their own community down to get people to listen to them. We’re at a breaking
+  point.”
+
+
+  Police in riot gear are using tear gas, rubber bullets, and other non-lethal tactics to intentionally incite chaos. Counter-protesters also appear at peaceful protests armed, for similar reasons.
 
 
 
@@ -17,8 +24,6 @@ rebuttal: >-
 
 
   Who all are instigating the violence?
-
-
 
 
   # Learn More
