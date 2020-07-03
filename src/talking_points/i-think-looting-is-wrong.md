@@ -19,7 +19,7 @@ rebuttal: >-
   # Ask Yourself
 
 
-  Have you witnessed who is doing the looting, or have you made an assumption?
+  Why, in 2020, in the richest country in the world, do people feel the need to acquire possessions through looting?
 
 
   # Learn More
