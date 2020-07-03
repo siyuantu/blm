@@ -15,15 +15,13 @@ rebuttal: >-
   point.”
 
 
-  Police in riot gear are using tear gas, rubber bullets, and other non-lethal tactics to intentionally incite chaos. Counter-protesters also appear at peaceful protests armed, for similar reasons.
-
-
+  Some peaceful protesters are provoked and met with violence. Police in riot gear are using tear gas, rubber bullets, and other non-lethal tactics to intentionally incite chaos. Counter-protesters also appear at peaceful protests armed, for similar reasons.
 
 
   # Ask Yourself
 
 
-  Who all are instigating the violence?
+  Who all are instigating the violence, and why?
 
 
   # Learn More
