@@ -12,9 +12,8 @@ rebuttal: >-
   Protesters are weighing the pandemic and racism both as threats to public health—because both threaten our quality of life. And for them, the dangers of white supremacy outweigh the dangers of Covid-19. In fact, hundreds of public health and disease experts signed an open letter stating that the protests are justified, because “white supremacy is a lethal public health issue that predates and contributes to Covid-19.” They called the protests “vital to the national public health and to the threatened health specifically of black people in the United States.”
 
 
-  There are ways to protest powerfully but more safely—for example, attending small, local protests, where participants can more easily spread themselves out.\
+  There are ways to protest powerfully but more safely—for example, attending small, local protests, where participants can more easily spread themselves out.
 
-  \
 
   Finally, data from many U.S. cities show that the protests have not led to an obvious increase in the number of COVID-19 cases.
 
