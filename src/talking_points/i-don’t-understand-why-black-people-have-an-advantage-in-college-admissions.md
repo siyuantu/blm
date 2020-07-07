@@ -34,4 +34,5 @@ rebuttal: >-
   [The Myth of Reverse Racism (The Atlantic)](https://www.theatlantic.com/education/archive/2017/08/myth-of-reverse-racism/535689/)
 rebuttal_zh: \[]
 category: Education
+color: "#B57033"
 ---
