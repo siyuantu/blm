@@ -29,6 +29,6 @@ collections:
       - label: "Category"
         name: "category"
         widget: "relation"
-        collection: "category"
+        collection: "categories"
         valueField: "title"
         searchFields: ["title", "title_zh"]
