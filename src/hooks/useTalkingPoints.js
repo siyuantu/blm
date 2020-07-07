@@ -9,6 +9,7 @@ const query = graphql`
       nodes {
         frontmatter {
           category
+          color
           title
           title_zh
           rebuttal
@@ -58,7 +59,7 @@ export default function useTalkingPoints() {
 
         return {
           ...frontmatter,
-          category: categoryEntry,
+          category: categoryEntry.frontmatter,
         };
       }),
     [entries, categoryNodes]
