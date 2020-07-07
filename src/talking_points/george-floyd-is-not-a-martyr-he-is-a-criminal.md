@@ -10,4 +10,5 @@ rebuttal: Whatever his past, it doesn’t take away Floyd’s right to a fair tr
   accordance with the charges.
 rebuttal_zh: \[]
 category: Safety
+color: "#B57033"
 ---
