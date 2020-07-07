@@ -9,4 +9,5 @@ rebuttal: Whatever his past, it doesn’t take away Floyd’s right to a fair tr
   jury of peers. And if guilty, his sentence should be determined by a judge, in
   accordance with the charges.
 rebuttal_zh: \[]
+category: Safety
 ---
