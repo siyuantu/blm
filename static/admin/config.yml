@@ -34,3 +34,18 @@ collections:
         collection: "categories"
         valueField: "title"
         searchFields: ["title", "title_zh"]
+      - label: "Color"
+        name: "color"
+        widget: "select"
+        default: '#8A5413'
+        options:
+          - '#1F0E03'
+          - '#331707'
+          - '#462009'
+          - '#58280B'
+          - '#7A370F'
+          - '#8A5413'
+          - '#B57033'
+          - '#BF8149'
+          - '#E29C5E'
+          - '#F7B77D'
