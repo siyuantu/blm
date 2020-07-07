@@ -16,4 +16,5 @@ rebuttal: >-
   * Rather than not allowing promotions for POC, a hostile work environment and lack of diversity in leadership lead to fewer opportunities at work, which leads to higher rates of turnover.
 rebuttal_zh: \[]
 category: Not my cause
+color: "#58280B"
 ---
