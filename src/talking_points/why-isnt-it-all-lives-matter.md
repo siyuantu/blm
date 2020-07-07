@@ -25,4 +25,5 @@ rebuttal: >-
   [Why You Should Stop Saying "All Lives Matter," explained in 9 different ways](https://www.vox.com/2016/7/11/12136140/black-all-lives-matter)
 rebuttal_zh: \[]
 category: Not my cause
+color: "#1F0E03"
 ---
