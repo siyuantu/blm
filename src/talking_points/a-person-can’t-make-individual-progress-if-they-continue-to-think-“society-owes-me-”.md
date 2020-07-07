@@ -5,4 +5,5 @@ title_zh: "[]"
 rebuttal: \[]
 rebuttal_zh: \[]
 category: Individualism
+color: "#331707"
 ---
