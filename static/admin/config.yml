@@ -26,8 +26,8 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Title (zh)", name: "title_zh", widget: "string"}
-      - {label: "Rebuttal", name: "rebuttal", widget: "string"}
-      - {label: "Rebuttal (zh)", name: "rebuttal_zh", widget: "string"}
+      - {label: "Rebuttal", name: "rebuttal", widget: "markdown"}
+      - {label: "Rebuttal (zh)", name: "rebuttal_zh", widget: "markdown"}
       - label: "Category"
         name: "category"
         widget: "relation"
