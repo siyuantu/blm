@@ -4,5 +4,4 @@ title: A person can’t make individual progress if they continue to think,
 title_zh: "[]"
 rebuttal: \[]
 rebuttal_zh: \[]
-category: Individualism
 ---

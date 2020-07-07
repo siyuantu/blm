@@ -32,5 +32,4 @@ rebuttal: >-
 
   [Police militarization fails to protect officers and targets black communities, study finds (PBS)](https://www.pbs.org/newshour/science/police-militarization-fails-to-protect-officers-and-targets-black-communities-study-finds)
 rebuttal_zh: \[ ]
-category: Safety
 ---
