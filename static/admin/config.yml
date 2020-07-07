@@ -12,6 +12,13 @@ media_folder: static/img
 public_folder: /img
 
 collections:
+  - name: "categories"
+    label: "Categories"
+    folder: "src/categories"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Title (zh)", name: "title_zh", widget: "string"}
   - name: "talking_points"
     label: "Talking points"
     folder: "src/talking_points"
@@ -19,5 +26,9 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Title (zh)", name: "title_zh", widget: "string"}
-      - {label: "Rebuttal", name: "rebuttal", widget: "markdown"}
-      - {label: "Rebuttal (zh)", name: "rebuttal_zh", widget: "markdown"}
+      - label: "Category"
+        name: "category"
+        widget: "relation"
+        collection: "category"
+        valueField: "title"
+        searchFields: ["title", "title_zh"]
