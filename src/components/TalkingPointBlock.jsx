@@ -3,7 +3,18 @@ import PropTypes from 'prop-types';
 import './all.sass';
 
 const TalkingPointBlock = React.forwardRef(
-  ({ backgroundColor, isSelected, style, textColor, title, ...props }, ref) => (
+  (
+    {
+      backgroundColor,
+      category,
+      isSelected,
+      style,
+      textColor,
+      title,
+      ...props
+    },
+    ref
+  ) => (
     <div
       {...props} // eslint-disable-line react/jsx-props-no-spreading
       className={`talking-point ${
@@ -18,6 +29,7 @@ const TalkingPointBlock = React.forwardRef(
       }}
       tabIndex={0}
     >
+      <div className="talking-point__category">{category}</div>
       <div className="talking-point__title">{title}</div>
     </div>
   )
@@ -25,6 +37,7 @@ const TalkingPointBlock = React.forwardRef(
 
 TalkingPointBlock.propTypes = {
   backgroundColor: PropTypes.string.isRequired,
+  category: PropTypes.string.isRequired,
   isSelected: PropTypes.bool,
   style: PropTypes.object, // eslint-disable-line react/forbid-prop-types
   title: PropTypes.string.isRequired,

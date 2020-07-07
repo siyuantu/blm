@@ -23,14 +23,15 @@ const TalkingPointPreview = ({ entry }) => {
       <>
         <LanguageToggle />
         <TalkingPointBlock
-          backgroundColor="rgb(174, 118, 89)"
+          backgroundColor={data.color}
+          category={data.category}
           title={title}
-          textColor="black"
+          textColor="white"
         />
         <RebuttalPane
-          backgroundColor="rgb(174, 118, 89)"
+          backgroundColor={data.color}
           content={rebuttal}
-          textColor="black"
+          textColor="white"
         />
       </>
     );
