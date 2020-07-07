@@ -22,4 +22,5 @@ rebuttal: >-
 
   [The Criminalization of Gentrifying Neighborhoods (The Atlantic)](https://www.theatlantic.com/politics/archive/2017/12/the-criminalization-of-gentrifying-neighborhoods/548837/)
 rebuttal_zh: \[]
+category: Safety
 ---
