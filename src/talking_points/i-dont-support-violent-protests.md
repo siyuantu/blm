@@ -35,4 +35,5 @@ rebuttal: >-
   "Many people are asking if violence is a valid means of producing social change. The hard and historical answer is yes. Riots have a way of magnifying not merely the flaws in the system, but also the strength of those in power."
 rebuttal_zh: \[]
 category: Law & Order
+color: "#462009"
 ---
