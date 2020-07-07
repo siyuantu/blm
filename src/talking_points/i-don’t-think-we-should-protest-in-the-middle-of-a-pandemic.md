@@ -35,4 +35,5 @@ rebuttal: >-
 
   [Protests probably didn’t lead to coronavirus spikes, but it’s hard to know for sure (Washington Post)](https://www.washingtonpost.com/health/protests-probably-didnt-lead-to-coronavirus-spikes-but-its-hard-to-know-for-sure/2020/06/30/d8179678-baf5-11ea-8cf5-9c1b8d7f84c6_story.html)
 rebuttal_zh: \[ ]
+category: Law & Order
 ---
