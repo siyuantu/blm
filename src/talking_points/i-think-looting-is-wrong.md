@@ -33,4 +33,5 @@ rebuttal: >-
   As Christian Davenport, a political-science professor at the University of Michigan, put it to me, “the best way to prevent looting is to provide individuals with a living wage, provide for their basic needs, treat them with human dignity, and facilitate a life that is about thriving.”
 rebuttal_zh: \[ ]
 category: Law & Order
+color: "#462009"
 ---
