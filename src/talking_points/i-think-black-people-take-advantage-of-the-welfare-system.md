@@ -4,4 +4,5 @@ title_zh: "[]"
 rebuttal: \[]
 rebuttal_zh: \[]
 category: Financial responsibility
+color: "#331707"
 ---
