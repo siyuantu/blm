@@ -2,10 +2,10 @@
 title: I think looting is wrong.
 title_zh: "[ ]"
 rebuttal: >-
-  Response: First, we have to acknowledge that any time large groups of angry
-  people gather spontaneously, property damage is common. During the BLM
-  protests, a small percentage of those protesting were actually looting. But
-  there are many reasons that it happens.
+  First, we have to acknowledge that any time large groups of angry people
+  gather spontaneously, property damage is common. During the BLM protests, a
+  small percentage of those protesting were actually looting. But there are many
+  reasons that it happens.
 
 
   In protest, acts of vandalism happen on symbolic grounds (e.g. large corporations like Target, police stations, statues). In the U.S., these acts in these locations represent a desire for a redistribution of property—it’s a form of empowerment. It has been a way to make one’s voice heard when peaceful protests go frustratingly unheard. And indeed, some looters aren’t affiliated with the protests at all, and are taking advantage of the situation. Others are acting in response to media attention.
