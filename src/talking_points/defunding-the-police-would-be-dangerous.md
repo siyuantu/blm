@@ -16,21 +16,22 @@ rebuttal: >-
   ## Ask Yourself
 
 
-  * Does the person we send to catch a robber also need to be the person we send to interview a rape victim or document a fender bender? Should one profession be expected to do all that important community care (with very little training) all at the same time?
+  • Does the person we send to catch a robber also need to be the person we send to interview a rape victim or document a fender bender? Should one profession be expected to do all that important community care (with very little training) all at the same time?
 
-  * What reforms would you ask for?
+
+  • What reforms would you ask for?
 
 
   ## Learn More
 
 
-  [Police: Last Week Tonight with John Oliver (HBO)](https://www.youtube.com/watch?v=Wf4cea5oObY)
+  [Police: Last Week Tonight with John Oliver](https://www.youtube.com/watch?v=Wf4cea5oObY) (HBO)
 
 
-  [Eliminating this federal program would play a major part in demilitarizing the police (Fast Company)](https://www.fastcompany.com/90513061/eliminating-this-federal-program-would-play-a-major-part-in-demilitarizing-the-police)
+  [Eliminating this federal program would play a major part in demilitarizing the police](https://www.fastcompany.com/90513061/eliminating-this-federal-program-would-play-a-major-part-in-demilitarizing-the-police) (Fast Company)
 
 
-  [Police militarization fails to protect officers and targets black communities, study finds (PBS)](https://www.pbs.org/newshour/science/police-militarization-fails-to-protect-officers-and-targets-black-communities-study-finds)
+  [Police militarization fails to protect officers and targets black communities, study finds](https://www.pbs.org/newshour/science/police-militarization-fails-to-protect-officers-and-targets-black-communities-study-finds) (PBS)
 rebuttal_zh: >-
   人们对“警察撤资”一词有很多误解和恐惧。它并不像取消警察那么简单 - 大家已经有很多建议。
 
@@ -51,6 +52,15 @@ rebuttal_zh: >-
 
 
   ## 了解更多
+
+
+  [Police: Last Week Tonight with John Oliver](https://www.youtube.com/watch?v=Wf4cea5oObY) (HBO)
+
+
+  [Eliminating this federal program would play a major part in demilitarizing the police](https://www.fastcompany.com/90513061/eliminating-this-federal-program-would-play-a-major-part-in-demilitarizing-the-police) (Fast Company)
+
+
+  [Police militarization fails to protect officers and targets black communities, study finds](https://www.pbs.org/newshour/science/police-militarization-fails-to-protect-officers-and-targets-black-communities-study-finds) (PBS)
 category: Safety
 color: "#7A370F"
 ---
