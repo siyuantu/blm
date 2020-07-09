@@ -1,6 +1,6 @@
 ---
 title: George Floyd is a criminal, not a martyr.
-title_zh: 乔治·弗洛伊德是罪犯，不是烈士
+title_zh: 乔治·弗洛伊德是罪犯，不是烈士。
 rebuttal: >-
   This is beside the point. Whatever his past, it doesn’t take away Floyd’s
   right to a fair trial. He doesn’t have to be a martyr for his death to be
@@ -26,6 +26,9 @@ rebuttal: >-
 
 
   [10 things we know about race and policing in the U.S.](https://www.pewresearch.org/fact-tank/2020/06/03/10-things-we-know-about-race-and-policing-in-the-u-s/) (Pew Research)
+
+
+  [George Floyd, From ‘I Want to Touch the World’ to ‘I Can’t Breathe’](https://www.nytimes.com/article/george-floyd-who-is.html) (New York Times)
 rebuttal_zh: >-
   这一点无关紧要。不管他的过去做了什么，这并不能夺走弗洛伊德获得公平审判的权利。他不必成为烈士，他的死是不可接受的和不公正的。当警察进行逮捕时，犯罪史并不重要，它不能成为过度使用武力或谋杀的理由，尤其是当此人已经受到人身限制时。弗洛伊德，或者任何人的有罪或无罪应该由陪审团来决定。如果有罪，他的刑期应该由法官根据指控确定。
 
@@ -43,6 +46,9 @@ rebuttal_zh: >-
 
 
   [10 things we know about race and policing in the U.S.](https://www.pewresearch.org/fact-tank/2020/06/03/10-things-we-know-about-race-and-policing-in-the-u-s/) (Pew Research)
+
+
+  [George Floyd, From ‘I Want to Touch the World’ to ‘I Can’t Breathe’](https://www.nytimes.com/article/george-floyd-who-is.html) (New York Times)
 category: Safety
 color: "#B57033"
 ---
