@@ -9,23 +9,39 @@ rebuttal: >-
   entrenched in much more prevalent, commonplace facets of society. For example:
 
 
-  * In the past, open segregation laws that divided neighborhoods and businesses by color. Now, it's more difficult for people of color to get the same mortgage loans as white people.
+  • In the past, open segregation laws that divided neighborhoods and businesses by color. Now, it's more difficult for people of color to get the same mortgage loans as white people.
 
-  * In the past, America relied on slave labor. Now, there are massive, uncorrected wage gaps among different ethnicities.
 
-  * In the past, people of color were not allowed to be promoted or even work certain jobs. Now, a hostile work environment and lack of diversity in leadership leads to fewer opportunities at work and high turnover.
+  • In the past, America relied on slave labor. Now, there are massive, uncorrected wage gaps among different ethnicities.
+
+
+  • In the past, people of color were not allowed to be promoted or even work certain jobs. Now, a hostile work environment and lack of diversity in leadership leads to fewer opportunities at work and high turnover.
 
 
   Taken altogether, discrimination in education, work, public spaces, and health care continue to cause real, though less overt, harm and oppression in America today.
 
 
-  ### Ask Yourself
+  ## Ask Yourself
 
 
-  Consider [this exercise](https://nationalseedproject.org/Key-SEED-Texts/white-privilege-unpacking-the-invisible-knapsack) from the Invisible Knapsack by Peggy McIntosh. What are ways in which you've had unearned disadvantages in your life? What about unearned advantages?
+  Consider [this exercise](https://nationalseedproject.org/Key-SEED-Texts/white-privilege-unpacking-the-invisible-knapsack) from "The Invisible Knapsack" by Peggy McIntosh. What are ways in which you've had unearned disadvantages in your life? What about unearned advantages?
 
 
   How do you feel when you consider the experiences of unearned advantage and disadvantages of others?
+
+
+
+
+  ## Learn More
+
+
+  [Housing Segregation and Redlining in America: A Short History](https://www.youtube.com/watch?v=O5FBJyqfoLM) (NPR)
+
+
+  [White Privilege: Unpacking the Invisible Knapsack](https://www.racialequitytools.org/resourcefiles/mcintosh.pdf) (Peggy McIntosh)
+
+
+  [Institutional Racism](https://en.wikipedia.org/wiki/Institutional_racism) (Wikipedia)
 rebuttal_zh: >-
   即使你没有看到或经历过歧视，或者不相信你以歧视他人的方式行事，它还是正在全国范围内系统性地发生。歧视并不总是一种公开地咄咄逼人的行为（如警察暴力），或由法律界定的罪行。它也植根于社会更为普遍、司空见惯的方面。例如：
 
@@ -42,15 +58,25 @@ rebuttal_zh: >-
   总的来说，教育、就业、公共领域和医疗保健方面的歧视继续在今天的美国造成真正的伤害和压迫，尽管不那么明目张胆。
 
 
+  ## 问问自己
 
 
-  ### 问问自己
-
-
-  考虑做一下佩吉·麦金托什(Peggy McIntosh)的“看不见的背包”中的这个练习。你在生活中有什么你无法左右的劣势？还有什么坐享其成的优势呢？
+  考虑做一下佩吉·麦金托什(Peggy McIntosh)的[“看不见的背包”中的这个练习](https://nationalseedproject.org/Key-SEED-Texts/white-privilege-unpacking-the-invisible-knapsack)。你在生活中有什么你无法左右的劣势？还有什么坐享其成的优势呢？
 
 
   当你考虑别人无法左右的劣势和坐享其成的优势时，你会有什么感觉？
+
+
+  ## 了解更多
+
+
+  [Housing Segregation and Redlining in America: A Short History](https://www.youtube.com/watch?v=O5FBJyqfoLM) (NPR)
+
+
+  [White Privilege: Unpacking the Invisible Knapsack](https://www.racialequitytools.org/resourcefiles/mcintosh.pdf) (Peggy McIntosh)
+
+
+  [Institutional Racism](https://en.wikipedia.org/wiki/Institutional_racism) (Wikipedia)
 category: Not my cause
 color: "#58280B"
 ---
