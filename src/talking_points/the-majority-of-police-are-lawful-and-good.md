@@ -16,12 +16,16 @@ rebuttal: >-
   ## Ask Yourself
 
 
-
-
   ## Learn More
 
 
   [Blue Wall of Silence](https://www.themarshallproject.org/records/605-blue-wall-of-silence) (Marshall Project)
+
+
+  [Confessions of a Former Bastard Cop](https://medium.com/@OfcrACab/confessions-of-a-former-bastard-cop-bb14d17bc759) (Medium)
+
+
+  [Police: Last Week Tonight with John Oliver](https://www.youtube.com/watch?v=Wf4cea5oObY) (HBO)
 rebuttal_zh: >-
   "Ì ωôúℓδ ñèƲèř çôñδôñè Ʋïôℓèñçè, èƲèř," ƨá¥ƨ ÉℓïJáλ Nôřřïƨ-Hôℓïδá¥, á
   24-¥èář-ôℓδ áçƭïƲïƨƭ ïñ ƭλè Tωïñ Çïƭïèƨ ωλô λáƨ βèèñ ôřϱáñïƺïñϱ ƥèáçèƒúℓ
