@@ -13,28 +13,36 @@ rebuttal: >-
   This moment and this movement is about Black lives. All lives don’t matter until Black lives matter.
 
 
-  ### Ask Yourself
+  ## Ask Yourself
 
 
   Why does saying Black Lives Matter make you uncomfortable?
 
 
-  # Learn More
+  ## Learn More
 
 
-  [Why You Should Stop Saying "All Lives Matter," explained in 9 different ways](https://www.vox.com/2016/7/11/12136140/black-all-lives-matter)
-rebuttal_zh: |-
+  [Why You Should Stop Saying "All Lives Matter," explained in 9 different ways](https://www.vox.com/2016/7/11/12136140/black-all-lives-matter) (VOX)
+rebuttal_zh: >-
   当然，所有的生命都很重要。说"黑人生命很重要"并不意味着"只有黑人生命才重要"。这个口号是呼吁人们注意专门歧视和危害黑人的社会不公平现象。
 
+
   可以打个类比：如果邻居的房子着火了，你不会向附近所有的房子喷水，然后说，"但是所有的房子都很重要。你只会向着火的房子喷水，因为其他房子不需要水。
+
 
   这一刻以及这个运动是关于黑人的生命。如果黑人的生命不重要了，那么所有的生命都不会那么紧要了。
 
 
+  ## 问问自己
 
-  ### 问问自己
 
   为什么听到“黑人生命很重要”这句话让你不舒服？
+
+
+  ## **了解更多**
+
+
+  [Why You Should Stop Saying "All Lives Matter," explained in 9 different ways](https://www.vox.com/2016/7/11/12136140/black-all-lives-matter) (VOX)
 category: Not my cause
 color: "#1F0E03"
 ---
