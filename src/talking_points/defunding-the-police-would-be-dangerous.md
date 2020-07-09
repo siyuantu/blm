@@ -32,6 +32,9 @@ rebuttal: >-
 
 
   [Police militarization fails to protect officers and targets black communities, study finds](https://www.pbs.org/newshour/science/police-militarization-fails-to-protect-officers-and-targets-black-communities-study-finds) (PBS)
+
+
+  [Rough Justice (How America became overpoliced)](https://newrepublic.com/article/148304/rough-justice-america-over-policed) (The New Republic)
 rebuttal_zh: >-
   人们对“警察撤资”一词有很多误解和恐惧。它并不像取消警察那么简单 - 大家已经有很多建议。
 
@@ -61,6 +64,9 @@ rebuttal_zh: >-
 
 
   [Police militarization fails to protect officers and targets black communities, study finds](https://www.pbs.org/newshour/science/police-militarization-fails-to-protect-officers-and-targets-black-communities-study-finds) (PBS)
+
+
+  [Rough Justice (How America became overpoliced)](https://newrepublic.com/article/148304/rough-justice-america-over-policed) (The New Republic)
 category: Safety
 color: "#7A370F"
 ---
