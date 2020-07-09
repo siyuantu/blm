@@ -1,6 +1,6 @@
 ---
-title: Defunding the police would be dangerous.
-title_zh: "[ ] "
+title: Defunding the police is dangerous.
+title_zh: 取消对警察的资金支持是危险的。
 rebuttal: >-
   There’s a lot of misunderstanding and fear around the phrase “defund the
   police.” But it’s not as straightforward as getting rid of the police
@@ -31,7 +31,26 @@ rebuttal: >-
 
 
   [Police militarization fails to protect officers and targets black communities, study finds (PBS)](https://www.pbs.org/newshour/science/police-militarization-fails-to-protect-officers-and-targets-black-communities-study-finds)
-rebuttal_zh: \[ ]
+rebuttal_zh: >-
+  人们对“警察撤资”一词有很多误解和恐惧。它并不像取消警察那么简单 - 大家已经有很多建议。
+
+
+  一方面，人们要求政府官员将警察预算中的资金转移到其他社区团体或机构。目前，警务中只有很小一部分涉及预防正在进行的犯罪或需要使用武力。许多日常工作都涉及到做其他专业人员的事项：心理治疗师、社会工作者和心理健康专业人员。减少对警察的资金支持意味着将这些资源转移到受过适当培训并更有能力缓解紧张局势的专业人员手中。
+
+
+  另一方面，一些人确实想要解散目前的警察部队。对他们来说，警察系统本质上是不平等的，信任已受到了无法修复的损害。他们想从头开始，从头开始建立一个新的系统。这并不意味着不再有紧急服务 - 会在考虑到社区的情况下，建立一个新的响应系统。以下是新泽西州卡姆登在2013年成功做到这一点的一个例子。
+
+
+  ## 问问自己
+
+
+  我们派去抓强盗的人也需要来采访强奸受害者或记录小车祸吗？是否应该期望一个专业人员同时做所有这些重要的社区工作(而这名专业人员每项工作受到的培训可能很少)？
+
+
+  你会要求哪些改革？
+
+
+  ## 了解更多
 category: Safety
 color: "#7A370F"
 ---
