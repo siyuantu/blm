@@ -1,6 +1,6 @@
 ---
-title: I don’t think we should protest in the middle of a pandemic.
-title_zh: "[ ]"
+title: We should not protest during a pandemic.
+title_zh: 我们不应该在新冠大流行期间抗议。
 rebuttal: >-
   Unfortunately, protesting is one of the few rights available to people to
   challenge systemic injustices and be heard. Many protesters are aware of the
@@ -31,7 +31,25 @@ rebuttal: >-
   \
 
   [Protests probably didn’t lead to coronavirus spikes, but it’s hard to know for sure (Washington Post)](https://www.washingtonpost.com/health/protests-probably-didnt-lead-to-coronavirus-spikes-but-its-hard-to-know-for-sure/2020/06/30/d8179678-baf5-11ea-8cf5-9c1b8d7f84c6_story.html)
-rebuttal_zh: \[ ]
+rebuttal_zh: >-
+  不幸的是，抗议是人们挑战系统性不公正并被倾听的为数不多的权利之一。许多抗议者意识到他们把自己和其他人置于其中的风险，并普遍采取预防措施来降低风险。\
+
+  \
+
+  抗议者正在权衡同样作为公共健康威胁的流行病和种族主义 - 因为两者都威胁到我们公民的生活质量。对他们来说，白人至上的危险大于新冠肺炎的危险。事实上，数以百计的公共卫生和疾病专家签署了一封公开信，声明抗议是合理的，因为“白人至上是一个致命的公共卫生问题，早在新冠肺炎之前就有了，并助长了新冠肺炎。”他们称抗议活动“对国家公共健康至关重要，对受到威胁的美国黑人的健康尤为重要”。\[1]29岁的Vidal Guzman是纽约的一名抗议者，他说：“比起新冠肺炎，大家更怕警察。他们愿意做任何事。”\[2]\
+
+  \
+
+  这里已经有降低感染风险的指导方针，一些城市已经宣布为抗议者提供免费的新冠肺炎检测。也有更安全的抗议方式 - 例如，参加当地的小型抗议活动，参与者可以更容易地分散开来。最后，来自美国多个城市的最新数据显示，抗议活动并未导致新冠肺炎病例明显增加。
+
+
+  ### 问问自己
+
+
+  想一想，如果你和你的家人或你的种族成为这个国家警察暴行和暴力的目标，抗议的紧迫性对你来说可能会发生什么变化。
+
+
+  ### 了解更多
 category: Law & Order
 color: "#331707"
 ---
