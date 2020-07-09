@@ -1,5 +1,5 @@
 ---
-title: I think Black people take advantage of the welfare system.
+title: Black people take advantage of the welfare system.
 title_zh: "[]"
 rebuttal: >-
   Broadly speaking, the myth that welfare makes people lazy is perpetuated
@@ -31,6 +31,9 @@ rebuttal: >-
 
 
   [The Myth of the Welfare Queen](https://newrepublic.com/article/154404/myth-welfare-queen) (The New Republic)
+
+
+  [The Real Welfare Problem](https://prospect.org/economy/real-welfare-problem/) (The American Prospect)
 rebuttal_zh: \[]
 category: Financial responsibility
 color: "#331707"
