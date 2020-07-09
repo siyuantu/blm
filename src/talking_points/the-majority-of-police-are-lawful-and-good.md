@@ -1,6 +1,6 @@
 ---
 title: The majority of police are lawful and good.
-title_zh: Tλè ₥áJôřïƭ¥ ôƒ ƥôℓïçè ářè ℓáωƒúℓ áñδ ϱôôδ.
+title_zh: "[]"
 rebuttal: >-
   When people say "there are no good cops," it doesn't mean that all cops are
   inherently bad people with bad motives. But at best, the "good" cops are
@@ -11,6 +11,17 @@ rebuttal: >-
 
 
   In the U.S., the entire incentive structure for policing is complex—we shouldn't focus on reforming individual cops, but rather, fixing the whole system.
+
+
+  ## Ask Yourself
+
+
+
+
+  ## Learn More
+
+
+  [Blue Wall of Silence](https://www.themarshallproject.org/records/605-blue-wall-of-silence) (Marshall Project)
 rebuttal_zh: >-
   "Ì ωôúℓδ ñèƲèř çôñδôñè Ʋïôℓèñçè, èƲèř," ƨá¥ƨ ÉℓïJáλ Nôřřïƨ-Hôℓïδá¥, á
   24-¥èář-ôℓδ áçƭïƲïƨƭ ïñ ƭλè Tωïñ Çïƭïèƨ ωλô λáƨ βèèñ ôřϱáñïƺïñϱ ƥèáçèƒúℓ
