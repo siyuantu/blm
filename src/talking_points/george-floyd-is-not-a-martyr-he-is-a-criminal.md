@@ -11,26 +11,38 @@ rebuttal: >-
   determined by a judge, in accordance with the charges.
 
 
-  ### Ask Yourself
+  ## Ask Yourself
 
 
-  How would this situation have been different if he was not a visible minority?
+  • How would this situation have been different if he was not a visible minority?
 
 
-  How does the media portray white people with criminal histories differently (e.g. Brock Turner, Dylann Roof)?
+  • How does the media portray white people with criminal histories differently (e.g. Brock Turner, Dylann Roof)?
+
+
+
+
+  ## Learn More
+
+
+  [10 things we know about race and policing in the U.S.](https://www.pewresearch.org/fact-tank/2020/06/03/10-things-we-know-about-race-and-policing-in-the-u-s/) (Pew Research)
 rebuttal_zh: >-
   这一点无关紧要。不管他的过去做了什么，这并不能夺走弗洛伊德获得公平审判的权利。他不必成为烈士，他的死是不可接受的和不公正的。当警察进行逮捕时，犯罪史并不重要，它不能成为过度使用武力或谋杀的理由，尤其是当此人已经受到人身限制时。弗洛伊德，或者任何人的有罪或无罪应该由陪审团来决定。如果有罪，他的刑期应该由法官根据指控确定。
 
 
-
-
-  ### 问问自己
+  ## 问问自己
 
 
   如果他不是明显的少数族裔，情况会有什么不同？
 
 
   媒体如何以不同的方式描绘有犯罪史的白人（例如Brock Turner，Dylann Roof）？
+
+
+  ## 了解更多
+
+
+  [10 things we know about race and policing in the U.S.](https://www.pewresearch.org/fact-tank/2020/06/03/10-things-we-know-about-race-and-policing-in-the-u-s/) (Pew Research)
 category: Safety
 color: "#B57033"
 ---
