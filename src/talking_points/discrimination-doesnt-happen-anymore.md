@@ -30,18 +30,19 @@ rebuttal: >-
   How do you feel when you consider the experiences of unearned advantage and disadvantages of others?
 
 
-
-
   ## Learn More
 
 
   [Housing Segregation and Redlining in America: A Short History](https://www.youtube.com/watch?v=O5FBJyqfoLM) (NPR)
 
 
+  [Institutional Racism](https://en.wikipedia.org/wiki/Institutional_racism) (Wikipedia)
+
+
   [White Privilege: Unpacking the Invisible Knapsack](https://www.racialequitytools.org/resourcefiles/mcintosh.pdf) (Peggy McIntosh)
 
 
-  [Institutional Racism](https://en.wikipedia.org/wiki/Institutional_racism) (Wikipedia)
+  [What is White Privilege, Really?](https://www.tolerance.org/magazine/fall-2018/what-is-white-privilege-really) (Teaching Tolerance)
 rebuttal_zh: >-
   即使你没有看到或经历过歧视，或者不相信你以歧视他人的方式行事，它还是正在全国范围内系统性地发生。歧视并不总是一种公开地咄咄逼人的行为（如警察暴力），或由法律界定的罪行。它也植根于社会更为普遍、司空见惯的方面。例如：
 
@@ -73,10 +74,13 @@ rebuttal_zh: >-
   [Housing Segregation and Redlining in America: A Short History](https://www.youtube.com/watch?v=O5FBJyqfoLM) (NPR)
 
 
+  [Institutional Racism](https://en.wikipedia.org/wiki/Institutional_racism) (Wikipedia)
+
+
   [White Privilege: Unpacking the Invisible Knapsack](https://www.racialequitytools.org/resourcefiles/mcintosh.pdf) (Peggy McIntosh)
 
 
-  [Institutional Racism](https://en.wikipedia.org/wiki/Institutional_racism) (Wikipedia)
+  [What is White Privilege, Really?](https://www.tolerance.org/magazine/fall-2018/what-is-white-privilege-really) (Teaching Tolerance)
 category: Not my cause
 color: "#58280B"
 ---
