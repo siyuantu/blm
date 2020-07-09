@@ -23,10 +23,13 @@ rebuttal: >-
   # Learn More
 
 
-  [In Defense of Looting (The New Inquiry)](https://thenewinquiry.com/in-defense-of-looting/)
-
-
   \[1] [Why People Loot (The Atlantic) ](https://www.theatlantic.com/health/archive/2020/06/why-people-loot/612577/)
+
+
+  [How Can We Win (David Jones Media)](https://www.youtube.com/watch?v=sb9_qGOa9Go)
+
+
+  [In Defense of Looting (The New Inquiry)](https://thenewinquiry.com/in-defense-of-looting/)
 rebuttal_zh: >-
   首先，我们必须承认，任何时候，只要一大群愤怒的人自发聚集，财产损坏会很常见。在BLM抗议期间，一小部分抗议者实际上是在抢劫。但它的发生有很多原因。
 
@@ -34,18 +37,28 @@ rebuttal_zh: >-
   当和平抗议被令人沮丧地忽视时，破坏公物的行为就成为发声的另一种方式。这些行为是在有象征性意味的地点上发生的(例如，针对像Target的大公司、警察局、雕像等)。在美国，这些地点的破坏行为植根于财富不平等，代表了人们一种重新分配财富的愿望。
 
 
-  抢劫的发生在一定程度上是因为抗议活动，而抗议活动的发生是因为社会中更多的系统性问题。这是一种在政治和经济上感到无能为力的反应。为了阻止人们抢掠，我们必须查找根本原因，并创造系统性的变化。在《大西洋月刊》上，一位政治学教授总结道：“防止抢劫的最好方法是为个人提供基本生活工资，满足他们的基本需求，以人应有的尊严对待他们，促成一条有通向富足的生活途径。”\[1]金伯利·琼斯(Kimberly Jones)在[《我们如何才能获胜》](https://www.youtube.com/watch?v=sb9_qGOa9Go)一书中满怀激情地解释了这一点。
+  抢劫的发生在一定程度上是因为抗议活动，而抗议活动的发生是因为社会中更多的系统性问题。这是一种在政治和经济上感到无能为力的反应。为了阻止人们抢掠，我们必须查找根本原因，并创造系统性的变化。在《大西洋月刊》上，一位政治学教授总结道：“防止抢劫的最好方法是为个人提供基本生活工资，满足他们的基本需求，以人应有的尊严对待他们，促成一条有通向富足的生活途径。”\[1] 金伯利·琼斯(Kimberly Jones)在[《我们如何才能获胜》](https://www.youtube.com/watch?v=sb9_qGOa9Go)一书中满怀激情地解释了这一点。
 
 
-  # 问问自己
+  ![]()
+
+
+  ## 问问自己
 
 
   为什么在2020年，在这个世界上最富有的国家，人们会觉得有必要通过抢劫来获取财产？
 
 
+  ## 了解更多
 
 
-  # 了解更多
+  \[1] [Why People Loot (The Atlantic) ](https://www.theatlantic.com/health/archive/2020/06/why-people-loot/612577/)
+
+
+  [How Can We Win (David Jones Media)](https://www.youtube.com/watch?v=sb9_qGOa9Go)
+
+
+  [In Defense of Looting (The New Inquiry)](https://thenewinquiry.com/in-defense-of-looting/)
 category: Law & Order
 color: "#462009"
 ---
