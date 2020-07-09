@@ -33,6 +33,9 @@ rebuttal: >-
 
 
   [The 'Concerned Citizen Who Happens To Be Armed' Is Showing Up At Protests ](https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/06/10/873751544/the-concerned-citizen-who-happens-to-be-armed-is-showing-up-at-protests)(NPR)
+
+
+  [Black Riot](https://thenewinquiry.com/black-riot/) (The New Inquiry)
 rebuttal_zh: >-
   抗议活动是一种持续的破坏活动，旨在改变当前的制度。当和平抗议(例如，科林·凯珀尼克(Colin
   Kaepernick)在NFL比赛期间跪下抗议)没有带来改变时，人们会反复感到被忽视，并升级他们的示威活动。
@@ -65,6 +68,9 @@ rebuttal_zh: >-
 
 
   [The 'Concerned Citizen Who Happens To Be Armed' Is Showing Up At Protests ](https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/06/10/873751544/the-concerned-citizen-who-happens-to-be-armed-is-showing-up-at-protests)(NPR)
+
+
+  [Black Riot](https://thenewinquiry.com/black-riot/) (The New Inquiry)
 category: Law & Order
 color: "#462009"
 ---
