@@ -36,6 +36,9 @@ rebuttal: >-
 
 
   [The Miseducation of Larry P](https://www.wnycstudios.org/podcasts/radiolab/articles/g-miseducation-larry-p) (WNYC Radiolab)
+
+
+  [Do Black Families Value Education?](https://files.eric.ed.gov/fulltext/EJ1090572.pdf) (Institute of Education Sciences)
 rebuttal_zh: \[]
 category: Education
 color: "#58280B"
