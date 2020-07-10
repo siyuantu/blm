@@ -3,17 +3,21 @@ title: The majority of police are lawful and good.
 title_zh: "[]"
 rebuttal: >-
   When people say "there are no good cops," it doesn't mean that all cops are
-  inherently bad people with bad motives. But at best, the "good" cops are
+  bad people with bad motives. But at best, the "good" cops are silent and
   complicit in a system that allows the bad cops to continue getting away with
-  violence, discrimination, and corruption (often because they, too, [suffer
-  consequences](https://en.wikipedia.org/wiki/Blue_wall_of_silence) for calling
-  them out). 
+  violence, discrimination, and corruption (often because they, too, suffer
+  consequences for raising issues—this is known as the Blue Wall of Silence).
+
+  Additionally, it’s not as simple as separating good cops and bad cops. For instance, some of the police who kneeled in support with protesters were also the ones who tear-gassed or arrested them later in the evening.
 
 
-  In the U.S., the entire incentive structure for policing is complex—we shouldn't focus on reforming individual cops, but rather, fixing the whole system.
+  Arguing that the problem is with individual cops distracts from the systemic change needed to allow good cops to be successful. In the U.S., the entire incentive structure for policing is complex and flawed—we shouldn't focus on reforming individual cops, but rather, fixing the entire system.
 
 
   ## Ask Yourself
+
+
+  Doctors and lawyers in America need licenses and malpractice insurance—who should be held responsible when police cause harm? When cops and their supervisors turn a blind eye to bad behaviors, who polices their behavior?
 
 
   ## Learn More
