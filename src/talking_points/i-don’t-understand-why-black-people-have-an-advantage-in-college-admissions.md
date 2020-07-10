@@ -58,6 +58,15 @@ rebuttal_zh: >-
 
 
   ## 了解更多
+
+
+  \[1] [The Myth of Reverse Racism](https://www.theatlantic.com/education/archive/2017/08/myth-of-reverse-racism/535689/) (The Atlantic) 
+
+
+  \[2][ The Changing Meaning of Affirmative Action](https://www.newyorker.com/magazine/2020/01/20/have-we-outgrown-the-need-for-affirmative-action) (New Yorker)
+
+
+  [Even With Affirmative Action, Blacks and Hispanics Are More Underrepresented at Top Colleges Than 35 Years Ago](https://www.nytimes.com/interactive/2017/08/24/us/affirmative-action.html) (New York Times)
 category: Education
 color: "#B57033"
 ---
