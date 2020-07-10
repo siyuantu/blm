@@ -23,10 +23,9 @@ rebuttal: >-
   ## Ask Yourself
 
 
-  Do you feel that affirmative action has taken opportunities away from you?
+  Do you feel that affirmative action has taken opportunities away from you? What kind of support did you receive prior to that moment?
 
 
-  If other ethnic or racial minorities are discriminated against or lose, what am I gaining?
 
 
   ## Learn More
