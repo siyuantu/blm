@@ -5,12 +5,11 @@ rebuttal: >-
   Broadly speaking, the myth that welfare makes people lazy is perpetuated
   without evidence. From The Atlantic: “a 2015 meta-study of cash programs in
   poor countries found ‘no systematic evidence that cash transfer programs
-  discourage work’ in seven different countries.”\[1]
+  discourage work’ in seven different countries.”\[1] 
 
 
-  In particular, the myth of the “[welfare queen](https://en.wikipedia.org/wiki/Welfare_queen)” (a stigma often directed at Black, single mothers) came from Ronald Reagan’s 1976 presidential campaign. Reagan was looking for a sensational story to advance his political campaign, which sought to reform U.S. social programs. He found it in Linda Taylor, an interracial woman who had a complicated upbringing and committed welfare fraud, along with a host of more serious crimes. Though her name was never used, “the woman from Chicago” stood for the idea that black people are too lazy to work, and incited outrage from the public—and the term stuck.\
+  In particular, the myth of the “welfare queen” (a stigma often directed at Black, single mothers) came from Ronald Reagan’s 1976 presidential campaign. Reagan was looking for a sensational story to advance his political campaign, which sought to reform U.S. social programs. He found it in Linda Taylor, an interracial woman who had a complicated upbringing and committed welfare fraud, along with a host of more serious crimes. Though her name was never used, “the woman from Chicago” stood for the idea that black people are too lazy to work, and incited outrage from the public—and the term stuck.
 
-  \
 
   Here’s an alternative perspective: instead of trying to police and catch the “freeloaders,” the U.S. can focus on providing poor families more reliable financial assistance, education, housing, and work training so that they can, in turn, focus on more long-term investments for their family. These are the types of investments that will see long-term benefits for an entire community.
 
