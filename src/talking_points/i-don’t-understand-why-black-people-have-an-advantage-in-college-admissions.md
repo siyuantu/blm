@@ -1,6 +1,6 @@
 ---
 title: Black people shouldn't get an advantage in college admissions.
-title_zh: "[]"
+title_zh: 黑人不应该在大学录取中获得优惠待遇。
 rebuttal: >-
   The “action” in affirmative action means that we need to actively do something
   to include racial minorities. In college admissions, that means the colleges
@@ -38,7 +38,26 @@ rebuttal: >-
 
 
   [Even With Affirmative Action, Blacks and Hispanics Are More Underrepresented at Top Colleges Than 35 Years Ago](https://www.nytimes.com/interactive/2017/08/24/us/affirmative-action.html) (New York Times)
-rebuttal_zh: \[]
+rebuttal_zh: >-
+  平权行动中的“行动”，意味着我们需要积极做一些事情，把少数族裔包括在内。在大学招生中，这意味着大学会尽最大努力接纳代表性不足的群体-这与给予他们优惠待遇不同。
+
+
+  就像色盲的想法(“我看不到颜色”)一样，通过忽视我们在种族(或性别，或其他受保护的阶层)上的差异，我们并没有真正实现公平竞争。对所有人一视同仁不见得是公平的，因为有色人种的起点更低。数据显示，“白人学生仍然占所有私立外部奖学金获得者的近四分之三……白人学生比黑人、拉丁裔和亚裔学生更有可能获得奖学金。”\[1]
+
+
+  “但我们采取平权行动的原因是，我们曾经有奴隶制、吉姆·克劳法、红线歧视和种族契约，而且我们曾经拥有全白人的警察部队、全白人的本地工会、全白人的大学校园和全白人的律师事务所。用尼克松政府劳工部长乔治·舒尔茨（George Shultz）的话来说：几百年来，美国一直有种族配额。原本应该是零。平权行动是试图纠正对黑人的不公正行为。”\[2]
+
+
+  当早期的教育、社会和经济制度真正公正时，我们不需要平权行动。但是，在做到这一点之前，我们需要采取平权行动来缩小少数民族和白人学生之间不公平的差距。
+
+
+  ## 问问自己
+
+
+  你觉得平权行动夺走了你的机会吗？
+
+
+  ## 了解更多
 category: Education
 color: "#B57033"
 ---
