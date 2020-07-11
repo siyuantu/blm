@@ -12,27 +12,6 @@ rebuttal: >-
 
 
   Here’s an alternative perspective: instead of trying to police and catch the “freeloaders,” the U.S. can focus on providing poor families more reliable financial assistance, education, housing, and work training so that they can, in turn, focus on more long-term investments for their family. These are the types of investments that will see long-term benefits for an entire community.
-
-
-  ## Ask Yourself
-
-
-  Welfare comes in many forms. What do you think of when you imagine what a welfare program provides? How might you or your family members have benefited from welfare programs?
-
-
-  ## Learn More
-
-
-  \[1] [Busting the Myth of 'Welfare Makes People Lazy'](https://www.theatlantic.com/business/archive/2018/03/welfare-childhood/555119/) (The Atlantic)
-
-
-  [Dispelling the Myth of Welfare Dependency](https://epod.cid.harvard.edu/article/dispelling-myth-welfare-dependency) (Harvard Kennedy School)
-
-
-  [The Myth of the Welfare Queen](https://newrepublic.com/article/154404/myth-welfare-queen) (The New Republic)
-
-
-  [The Real Welfare Problem](https://prospect.org/economy/real-welfare-problem/) (The American Prospect)
 rebuttal_zh: >-
   从广义上讲，福利使人懒惰的观点虽然没有证据支持，但是却根深蒂固。《大西洋报》报道："研究发现，2015年对贫穷国家现金援助计划中，没有证据表明现金转移计划使受到援助的七个国家的人民工作热情减少"。\[1]
 
@@ -42,27 +21,23 @@ rebuttal_zh: >-
   \
 
   这里有另一种观点：美国可以专注于为贫困家庭提供更可靠的经济援助、教育、住房保障和工作培训，这样他们就可以反过来专注于为他们的家庭进行更长期的投资，而不是时刻监管和抓获“搭便车不劳而获的人”。这些类型的投资将为整个社区带来长期利益。
-
-
-  ## 问问自己
-
-
-  福利有多种形式。当你想到福利计划提供什么时，你会想到什么？你或你的家庭成员如何从福利计划中受益？
-
-
-  ## 了解更多
-
-
-  \[1] [Busting the Myth of 'Welfare Makes People Lazy'](https://www.theatlantic.com/business/archive/2018/03/welfare-childhood/555119/) (The Atlantic)
-
-
-  [Dispelling the Myth of Welfare Dependency](https://epod.cid.harvard.edu/article/dispelling-myth-welfare-dependency) (Harvard Kennedy School)
-
-
-  [The Myth of the Welfare Queen](https://newrepublic.com/article/154404/myth-welfare-queen) (The New Republic)
-
-
-  [The Real Welfare Problem](https://prospect.org/economy/real-welfare-problem/) (The American Prospect)
+ask_yourself: Welfare comes in many forms. What do you think of when you imagine
+  what a welfare program provides? How might you or your family members have
+  benefited from welfare programs?
+ask_yourself_zh: 福利有多种形式。当你想到福利计划提供什么时，你会想到什么？你或你的家庭成员如何从福利计划中受益？
 category: Financial responsibility
 color: "#331707"
+read_more:
+  - link_title: "[1] Busting the Myth of 'Welfare Makes People Lazy'"
+    url: https://www.theatlantic.com/business/archive/2018/03/welfare-childhood/555119/
+    source: The Atlantic
+  - link_title: Dispelling the Myth of Welfare Dependency
+    url: https://epod.cid.harvard.edu/article/dispelling-myth-welfare-dependency
+    source: Harvard Kennedy School
+  - link_title: The Myth of the Welfare Queen
+    url: https://newrepublic.com/article/154404/myth-welfare-queen
+    source: The New Republic
+  - url: https://prospect.org/economy/real-welfare-problem/
+    link_title: The Real Welfare Problem
+    source: The American Prospect
 ---
