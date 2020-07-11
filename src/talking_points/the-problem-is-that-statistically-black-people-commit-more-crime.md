@@ -20,21 +20,6 @@ rebuttal_zh: >-
 
 
   犯罪率也可以由其他相关的社会经济因素，如贫困、公共教育、隔离法和环境质量来解释。较高的犯罪率只是更突出了歧视的系统性和普遍性。
-
-
-  ## 问问自己
-
-
-  你曾经在商店前站了几分钟，开车超过限速几英里，或者游走在街巷吗？试想一下，如果一个警察在那里针对你的每一个轻微的违规行为都开出罚单。
-
-
-  ## **了解更多**
-
-
-  [Race and Crime in the United States](https://en.wikipedia.org/wiki/Race_and_crime_in_the_United_States) (Wikipedia)
-
-
-  [The Criminalization of Gentrifying Neighborhoods](https://www.theatlantic.com/politics/archive/2017/12/the-criminalization-of-gentrifying-neighborhoods/548837/) (The Atlantic)
 background_image_url: https://live.staticflickr.com/1530/26576954745_a79ca4493e_k.jpg
 background_image_alignment: right
 ask_yourself: Have you ever stood in front of a shop for a few minutes, driven a
