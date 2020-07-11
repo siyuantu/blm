@@ -28,7 +28,7 @@ collections:
       - {label: "Title (zh)", name: "title_zh", widget: "string"}
       - {label: "Rebuttal", name: "rebuttal", widget: "markdown"}
       - {label: "Rebuttal (zh)", name: "rebuttal_zh", widget: "markdown"}
-      - {label: "Background Image URL", name: "background_image_url", widget: "string"}
+      - {label: "Background Image URL", name: "background_image_url", widget: "string", required: false}
       - label: "Background image alignment"
         name: "background_image_alignment"
         widget: "select"
@@ -36,8 +36,9 @@ collections:
           - "right"
           - "bottom"
         default: "right"
-      - {label: "Ask Yourself Text", name: "ask_yourself", widget: "markdown"}
-      - {label: "Ask Yourself Text (zh)", name: "ask_yourself_zh", widget: "markdown"}
+        required: false
+      - {label: "Ask Yourself Text", name: "ask_yourself", widget: "markdown", required: false}
+      - {label: "Ask Yourself Text (zh)", name: "ask_yourself_zh", widget: "markdown", required: false}
       - label: "Category"
         name: "category"
         widget: "relation"
@@ -62,9 +63,10 @@ collections:
       - label: "Read more links"
         name: "read_more"
         widget: "list"
+        required: false
         summary: '{{fields.link_title}}'
         fields:
           - {label: "URL", name: "url", widget: "string"}
           - {label: "Link title", name: "link_title", widget: "string"}
           - {label: "Source", name: "source", widget: "string"}
-          - {label: "Image URL", name: "image_url", widget: "string"}
+          - {label: "Image URL", name: "image_url", widget: "string", required: false}
