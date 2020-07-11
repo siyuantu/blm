@@ -28,6 +28,8 @@ collections:
       - {label: "Title (zh)", name: "title_zh", widget: "string"}
       - {label: "Rebuttal", name: "rebuttal", widget: "markdown"}
       - {label: "Rebuttal (zh)", name: "rebuttal_zh", widget: "markdown"}
+      - {label: "Ask Yourself Text", name: "ask_yourself", widget: "markdown"}
+      - {label: "Ask Yourself Text (zh)", name: "ask_yourself_zh", widget: "markdown"}
       - label: "Category"
         name: "category"
         widget: "relation"
@@ -49,3 +51,12 @@ collections:
           - '#BF8149'
           - '#E29C5E'
           - '#F7B77D'
+      - label: "Read more links"
+        name: "read_more"
+        widget: "list"
+        summary: '{{fields.link_title}}'
+        fields:
+          - {label: "URL", name: "url", widget: "string"}
+          - {label: "Link title", name: "link_title", widget: "string"}
+          - {label: "Link title (zh)", name: "link_title_zh", widget: "string"}
+          - {label: "Image URL", name: "image_url", widget: "string"}

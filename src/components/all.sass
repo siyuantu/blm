@@ -6,10 +6,24 @@ $primary-invert: #000
 $background: #000
 $text: #FFF
 
+
+@import "~bulma"
+
 html, body
   min-height: 100vh
   background-color: $background
   color: $white
+
+
+a
+  color: rgba(255, 255, 255, 0.8)
+  text-decoration: underline
+
+  &:visited
+    color: rgba(255, 255, 255, 0.8)
+
+  &:hover
+    color: white
 
 .page-wrapper
   display: flex
@@ -22,11 +36,8 @@ html, body
   width: 100%
   padding: 2em 0
 
-.language-toggle
-  font-size: 2.5em
-
 .language-toggle__button
-  padding: 0 0.25em
+  padding: 0 0.5em
   background: none
   border: none
   -webkit-appearance: none
@@ -35,16 +46,27 @@ html, body
   font-size: inherit
   font-weight: bold
 
-.page-header, .page-footer
-  margin-top: 1em
-  font-size: 2.5em
+  &:hover:not(&--selected)
+    text-decoration: underline
 
-.page-footer
-  text-align: center
+  &:not(:first-child)
+    border-left: 2px solid white
+
+.page__header
+  display: flex
+  flex-direction: row
+  font-size: 1.5em
+
+  .page__header-spacer
+    flex: 1
+
+.page__header-link
+  font-weight: bold
+  text-decoration: none
 
 .talking-points-grid
   position: relative
-  margin-top: 10em
+  margin-top: 2em
 
   &__talking-points-wrapper
     list-style-type: none
@@ -55,7 +77,7 @@ html, body
     left: 0
     right: 0
     transform: translate3d(0, 0, 0)
-    transition: height 250ms ease
+    transition: height 250ms ease, opacity 250ms linear
 
 .talking-point
   padding: 2.5em
@@ -84,16 +106,11 @@ html, body
     min-height: 20em
     padding: 3em
 
-  &__markdown * + *
-    margin-top: 1em
+  &__markdown
     font-size: 1.5em
 
-  a
-    color: currentColor
-    text-decoration: underline
-
-    &:visited
-      color: currentColor
+    * + *
+      margin-top: 1em
 
   h2
     font-size: 1.5em
@@ -110,5 +127,3 @@ html, body
 
   &__close-icon
     fill: currentColor
-
-@import "~bulma"

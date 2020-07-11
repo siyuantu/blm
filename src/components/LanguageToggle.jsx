@@ -24,7 +24,6 @@ const LanguageToggle = () => {
       >
         English
       </button>
-      |
       <button
         className={`language-toggle__button ${
           language === 'zh' ? 'language-toggle__button--selected' : ''

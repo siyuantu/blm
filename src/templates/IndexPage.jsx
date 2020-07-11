@@ -4,10 +4,14 @@ import TalkingPointsGrid from '../components/TalkingPointsGrid';
 
 const IndexPageTemplate = () => (
   <>
-    <LanguageToggle />
-    <div className="page-header">[header]</div>
+    <div className="page__header">
+      <a className="page__header-link" href="/#">
+        About this project
+      </a>
+      <div className="page__header-spacer" />
+      <LanguageToggle />
+    </div>
     <TalkingPointsGrid />
-    <div className="page-footer">[footer]</div>
   </>
 );
 

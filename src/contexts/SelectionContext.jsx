@@ -7,6 +7,7 @@ const SelectionContext = React.createContext({
 });
 
 export const SelectionProvider = ({ children }) => {
+  const animationFrame = useRef(null);
   const isMounted = useRef(null);
 
   const talkingPoints = useTalkingPoints();
@@ -69,11 +70,25 @@ export const SelectionProvider = ({ children }) => {
   }, [handleHashChange]);
 
   useEffect(() => {
+    if (typeof window === 'undefined') {
+      return undefined;
+    }
+
     if (!isMounted.current) {
-      handleHashChange();
+      animationFrame.current = window.requestAnimationFrame(() => {
+        handleHashChange();
+        animationFrame.current = null;
+      });
     }
 
     isMounted.current = true;
+
+    return () => {
+      if (animationFrame.current) {
+        window.cancelAnimationFrame(animationFrame.current);
+        animationFrame.current = null;
+      }
+    };
   }, [handleHashChange]);
 
   return (

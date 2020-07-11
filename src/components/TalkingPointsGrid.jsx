@@ -28,11 +28,13 @@ const TalkingPointsGrid = ({ maxBlockSizePx }) => {
   const resizeObserver = useRef(null);
   const rebuttalPaneRef = useRef(null);
   const prevSelectedTalkingPointTitle = useRef(null);
+  const isMounted = useRef(false);
 
   const [containerRef, setContainerRef] = useState(null);
   const [availableWidthPx, setAvailableWidthPx] = useState(0);
   const [rebuttalPaneHeightPx, setRebuttalPaneHeightPx] = useState(0);
   const [rebuttalPaneIsVisible, setRebuttalPaneVisible] = useState(false);
+  const [rebuttalPaneOpacity, setRebuttalPaneOpacity] = useState(1);
 
   const [
     rebuttalPaneHeightIsAnimating,
@@ -194,6 +196,11 @@ const TalkingPointsGrid = ({ maxBlockSizePx }) => {
   }, [containerRef, handleResize]);
 
   useEffect(() => {
+    if (!isMounted.current) {
+      isMounted.current = true;
+      return;
+    }
+
     if (typeof window === 'undefined') {
       return;
     }
@@ -205,6 +212,7 @@ const TalkingPointsGrid = ({ maxBlockSizePx }) => {
 
       window.requestAnimationFrame(() => {
         setRebuttalPaneHeightPx(0);
+        setRebuttalPaneOpacity(0);
       });
     } else {
       blockRefs.current[selectedTalkingPointTitle].focus({
@@ -212,6 +220,7 @@ const TalkingPointsGrid = ({ maxBlockSizePx }) => {
       });
 
       setRebuttalPaneVisible(true);
+      setRebuttalPaneOpacity(1);
 
       window.requestAnimationFrame(() => {
         updateRebuttalPaneHeight();
@@ -290,6 +299,7 @@ const TalkingPointsGrid = ({ maxBlockSizePx }) => {
             height: rebuttalPaneHeightIsAnimating
               ? rebuttalPaneHeightPx
               : 'auto',
+            opacity: rebuttalPaneOpacity,
           }}
           onTransitionEnd={handleRebuttalPaneTransitionEnd}
         >
