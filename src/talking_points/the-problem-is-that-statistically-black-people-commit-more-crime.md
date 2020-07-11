@@ -12,21 +12,6 @@ rebuttal: >-
 
 
   The crime rate may also be explained by other related socioeconomic factors, like poverty, public education, segregation laws, and environmental quality. A higher crime rate only highlights the systemic and pervasive nature of the discrimination.
-
-
-  ## Ask Yourself
-
-
-  Have you ever stood in front of a shop for a few minutes, driven a few miles over the speed limit, or jaywalked? Imagine if a police officer was there to ticket you for every infraction.
-
-
-  ## Learn More
-
-
-  [Race and Crime in the United States](https://en.wikipedia.org/wiki/Race_and_crime_in_the_United_States) (Wikipedia)
-
-
-  [The Criminalization of Gentrifying Neighborhoods](https://www.theatlantic.com/politics/archive/2017/12/the-criminalization-of-gentrifying-neighborhoods/548837/) (The Atlantic)
 rebuttal_zh: >-
   关于犯罪率的统计数据不能说明问题的全部情况，因为它们只是基于逮捕和定罪确定的。治安和司法系统方面的歧视意味着黑人社区的人们更有可能被逮捕和定罪，这超出了所报告犯罪率的范畴。
 
@@ -50,6 +35,19 @@ rebuttal_zh: >-
 
 
   [The Criminalization of Gentrifying Neighborhoods](https://www.theatlantic.com/politics/archive/2017/12/the-criminalization-of-gentrifying-neighborhoods/548837/) (The Atlantic)
+background_image_url: https://live.staticflickr.com/1530/26576954745_a79ca4493e_k.jpg
+background_image_alignment: right
+ask_yourself: Have you ever stood in front of a shop for a few minutes, driven a
+  few miles over the speed limit, or jaywalked? Imagine if a police officer was
+  there to ticket you for every infraction.
+ask_yourself_zh: 你曾经在商店前站了几分钟，开车超过限速几英里，或者游走在街巷吗？试想一下，如果一个警察在那里针对你的每一个轻微的违规行为都开出罚单。
 category: Safety
 color: "#462009"
+read_more:
+  - url: https://en.wikipedia.org/wiki/Race_and_crime_in_the_United_States
+    source: Wikipedia
+    link_title: Race and Crime in the United States
+  - link_title: The Criminalization of Gentrifying Neighborhoods
+    source: The Atlantic
+    url: https://www.theatlantic.com/politics/archive/2017/12/the-criminalization-of-gentrifying-neighborhoods/548837/
 ---
