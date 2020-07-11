@@ -15,27 +15,6 @@ rebuttal: >-
 
 
   Finally, consider the longer arc of history. Many freedoms have been won in America through violent revolutions (e.g. American Revolution, Civil War). "Many people are asking if violence is a valid means of producing social change. The hard and historical answer is yes."\[2] Consider that the best way to keep protests from turning violent is to listen to peaceful protests and seriously consider making changes to address the issues being raised.
-
-
-  ## Ask Yourself
-
-
-  Which groups of people are instigating the violence? What are their motivations?
-
-
-  ## Learn More
-
-
-  \[1] [Why Minneapolis Was the Breaking Point](https://www.theatlantic.com/politics/archive/2020/06/wesley-lowery-george-floyd-minneapolis-black-lives/612391/) (The Atlantic)
-
-
-  \[2] [The Double Standard of the American Riot](https://www.theatlantic.com/culture/archive/2020/06/riots-are-american-way-george-floyd-protests/612466/) (The Atlantic)
-
-
-  [The 'Concerned Citizen Who Happens To Be Armed' Is Showing Up At Protests ](https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/06/10/873751544/the-concerned-citizen-who-happens-to-be-armed-is-showing-up-at-protests)(NPR)
-
-
-  [Black Riot](https://thenewinquiry.com/black-riot/) (The New Inquiry)
 rebuttal_zh: >-
   抗议活动是一种持续的破坏活动，旨在改变当前的制度。当和平抗议(例如，科林·凯珀尼克(Colin
   Kaepernick)在NFL比赛期间跪下抗议)没有带来改变时，人们会反复感到被忽视，并升级他们的示威活动。
@@ -49,28 +28,24 @@ rebuttal_zh: >-
 
   \
 
-  最后，考虑一下更长的历史弧线。美国通过暴力革命(如美国革命、内战)赢得了许多自由。“很多人都在问，暴力是否是产生社会变革的有效手段。历史给出了肯定的硬核答案。” \[2] 阻止抗议转为暴力的最佳方法是聆听和平抗议，并认真考虑进行改变以解决所提出的问题。 
-
-
-  ## 问问自己
-
-
-  哪些团体在煽动暴力？他们的动机是什么？
-
-
-  ## 了解更多
-
-
-  \[1] [Why Minneapolis Was the Breaking Point](https://www.theatlantic.com/politics/archive/2020/06/wesley-lowery-george-floyd-minneapolis-black-lives/612391/) (The Atlantic)
-
-
-  \[2] [The Double Standard of the American Riot](https://www.theatlantic.com/culture/archive/2020/06/riots-are-american-way-george-floyd-protests/612466/) (The Atlantic)
-
-
-  [The 'Concerned Citizen Who Happens To Be Armed' Is Showing Up At Protests ](https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/06/10/873751544/the-concerned-citizen-who-happens-to-be-armed-is-showing-up-at-protests)(NPR)
-
-
-  [Black Riot](https://thenewinquiry.com/black-riot/) (The New Inquiry)
+  最后，考虑一下更长的历史弧线。美国通过暴力革命(如美国革命、内战)赢得了许多自由。“很多人都在问，暴力是否是产生社会变革的有效手段。历史给出了肯定的硬核答案。” \[2] 阻止抗议转为暴力的最佳方法是聆听和平抗议，并认真考虑进行改变以解决所提出的问题。
+ask_yourself: Which groups of people are instigating the violence? What are
+  their motivations?
+ask_yourself_zh: 哪些团体在煽动暴力？他们的动机是什么？
 category: Law & Order
 color: "#462009"
+read_more:
+  - url: https://www.theatlantic.com/politics/archive/2020/06/wesley-lowery-george-floyd-minneapolis-black-lives/612391/
+    link_title: "[1] Why Minneapolis Was the Breaking Point"
+    source: The Atlantic
+  - link_title: "[2] The Double Standard of the American Riot"
+    url: https://www.theatlantic.com/culture/archive/2020/06/riots-are-american-way-george-floyd-protests/612466/
+    source: The Atlantic
+  - source: NPR
+    url: https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/06/10/873751544/the-concerned-citizen-who-happens-to-be-armed-is-showing-up-at-protests
+    link_title: "The 'Concerned Citizen Who Happens To Be Armed' Is Showing Up At
+      Protests "
+  - url: https://thenewinquiry.com/black-riot/
+    link_title: Black Riot
+    source: The New Inquiry
 ---
