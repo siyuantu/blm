@@ -28,7 +28,6 @@ const TalkingPointsGrid = ({ maxBlockSizePx }) => {
   const resizeObserver = useRef(null);
   const rebuttalPaneRef = useRef(null);
   const prevSelectedTalkingPointTitle = useRef(null);
-  const isMounted = useRef(false);
 
   const [containerRef, setContainerRef] = useState(null);
   const [availableWidthPx, setAvailableWidthPx] = useState(0);
@@ -196,11 +195,6 @@ const TalkingPointsGrid = ({ maxBlockSizePx }) => {
   }, [containerRef, handleResize]);
 
   useEffect(() => {
-    if (!isMounted.current) {
-      isMounted.current = true;
-      return;
-    }
-
     if (typeof window === 'undefined') {
       return;
     }
@@ -305,12 +299,24 @@ const TalkingPointsGrid = ({ maxBlockSizePx }) => {
         >
           <RebuttalPane
             key="rebuttal"
+            askYourselfContent={
+              language === 'en'
+                ? selectedTalkingPoint.ask_yourself
+                : selectedTalkingPoint.ask_yourself_zh
+            }
+            askYourselfSectionTitle={language !== 'en' ? '问问自己' : undefined}
             backgroundColor={selectedTalkingPoint.color}
+            backgroundImageAlignment={
+              selectedTalkingPoint.background_image_alignment
+            }
+            backgroundImageUrl={selectedTalkingPoint.background_image_url}
             content={
               language === 'en'
                 ? selectedTalkingPoint.rebuttal
                 : selectedTalkingPoint.rebuttal_zh
             }
+            readMoreLinks={selectedTalkingPoint.read_more}
+            readMoreSectionTitle={language !== 'en' ? '了解更多' : undefined}
             ref={handleRebuttalPaneRef}
             tabIndex={0}
             textColor={selectedTalkingPoint.contrastColor}

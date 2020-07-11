@@ -14,6 +14,15 @@ const query = graphql`
           title_zh
           rebuttal
           rebuttal_zh
+          ask_yourself
+          ask_yourself_zh
+          background_image_alignment
+          background_image_url
+          read_more {
+            link_title
+            source
+            url
+          }
         }
       }
     }

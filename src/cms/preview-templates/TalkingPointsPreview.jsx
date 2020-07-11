@@ -10,13 +10,21 @@ const TalkingPointPreview = ({ entry }) => {
   const data = entry.getIn(['data']).toJS();
 
   if (data) {
+    let askYourself;
+    let askYourselfSectionTitle;
     let rebuttal;
     let title;
+    let readMoreSectionTitle;
+
     if (language !== 'en') {
       rebuttal = data[`rebuttal_${language}`];
       title = data[`title_${language}`];
+      askYourself = data[`ask_yourself_${language}`];
+
+      askYourselfSectionTitle = '问问自己';
+      readMoreSectionTitle = '了解更多';
     } else {
-      ({ rebuttal, title } = data);
+      ({ ask_yourself: askYourself, rebuttal, title } = data);
     }
 
     return (
@@ -29,8 +37,14 @@ const TalkingPointPreview = ({ entry }) => {
           textColor="white"
         />
         <RebuttalPane
+          askYourselfContent={askYourself}
+          askYourselfSectionTitle={askYourselfSectionTitle}
           backgroundColor={data.color}
+          backgroundImageAlignment={data.background_image_alignment}
+          backgroundImageUrl={data.background_image_url}
           content={rebuttal}
+          readMoreLinks={data.read_more}
+          readMoreSectionTitle={readMoreSectionTitle}
           textColor="white"
         />
       </>
