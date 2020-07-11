@@ -15,24 +15,6 @@ rebuttal: >-
 
 
   Finally, recent data from many U.S. cities show that the protests have not led to an obvious increase in the number of COVID-19 cases.
-
-
-  ## Ask Yourself
-
-
-  Consider how the urgency of the protests might change if you and your family, or your race, were the targets of police brutality and violence in this country.
-
-
-  ## Learn More
-
-
-  \[1] [Over 1,000 health professionals sign a letter saying, Don't shut down protests using coronavirus concerns as an excuse](https://www.cnn.com/2020/06/05/health/health-care-open-letter-protests-coronavirus-trnd/index.html) (CNN)
-
-
-  \[2] [A Delicate Balance: Weighing Protest Against the Risks of the Coronavirus ](https://www.nytimes.com/2020/06/07/us/Protest-coronavirus-george-floyd.html)(New York Times)
-
-
-  [Parties — Not Protests — Are Causing Spikes In Coronavirus](https://www.npr.org/sections/coronavirus-live-updates/2020/06/24/883017035/what-contact-tracing-may-tell-about-cluster-spread-of-the-coronavirus) (NPR)
 rebuttal_zh: >-
   不幸的是，抗议是人们挑战系统性不公正并被倾听的为数不多的权利之一。许多抗议者意识到他们把自己和其他人置于其中的风险，并普遍采取预防措施来降低风险。
 
@@ -44,24 +26,22 @@ rebuttal_zh: >-
 
 
   最后，来自美国多个城市的最新数据显示，抗议活动并未导致新冠肺炎病例明显增加。
-
-
-  ## 问问自己
-
-
-  想一想，如果你和你的家人或你的种族成为这个国家警察暴行和暴力的目标，抗议的紧迫性对你来说可能会发生什么变化。
-
-
-  ## 了解更多
-
-
-  \[1] [Over 1,000 health professionals sign a letter saying, Don't shut down protests using coronavirus concerns as an excuse](https://www.cnn.com/2020/06/05/health/health-care-open-letter-protests-coronavirus-trnd/index.html) (CNN)
-
-
-  \[2] [A Delicate Balance: Weighing Protest Against the Risks of the Coronavirus ](https://www.nytimes.com/2020/06/07/us/Protest-coronavirus-george-floyd.html)(New York Times)
-
-
-  [Parties — Not Protests — Are Causing Spikes In Coronavirus](https://www.npr.org/sections/coronavirus-live-updates/2020/06/24/883017035/what-contact-tracing-may-tell-about-cluster-spread-of-the-coronavirus) (NPR)
+ask_yourself: Consider how the urgency of the protests might change if you and
+  your family, or your race, were the targets of police brutality and violence
+  in this country.
+ask_yourself_zh: 想一想，如果你和你的家人或你的种族成为这个国家警察暴行和暴力的目标，抗议的紧迫性对你来说可能会发生什么变化。
 category: Law & Order
 color: "#331707"
+read_more:
+  - source: CNN
+    link_title: "[1] Over 1,000 health professionals sign a letter saying, Don't
+      shut down protests using coronavirus concerns as an excuse"
+    url: https://www.cnn.com/2020/06/05/health/health-care-open-letter-protests-coronavirus-trnd/index.html
+  - link_title: "[2] A Delicate Balance: Weighing Protest Against the Risks of the
+      Coronavirus "
+    url: https://www.nytimes.com/2020/06/07/us/Protest-coronavirus-george-floyd.html
+    source: New York Times
+  - link_title: Parties — Not Protests — Are Causing Spikes In Coronavirus
+    url: https://www.npr.org/sections/coronavirus-live-updates/2020/06/24/883017035/what-contact-tracing-may-tell-about-cluster-spread-of-the-coronavirus
+    source: NPR
 ---
