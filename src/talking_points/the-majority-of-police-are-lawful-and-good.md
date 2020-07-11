@@ -12,24 +12,6 @@ rebuttal: >-
 
 
   Arguing that the problem is with individual cops distracts from the systemic change needed to allow good cops to be successful. In the U.S., the entire incentive structure for policing is complex and flawed—we shouldn't focus on reforming individual cops, but rather, fixing the entire system.
-
-
-  ## Ask Yourself
-
-
-  Doctors and lawyers in America need licenses and malpractice insurance—who should be held responsible when police cause harm? When cops and their supervisors turn a blind eye to bad behaviors, who polices their behavior?
-
-
-  ## Learn More
-
-
-  [Blue Wall of Silence](https://www.themarshallproject.org/records/605-blue-wall-of-silence) (Marshall Project)
-
-
-  [Confessions of a Former Bastard Cop](https://medium.com/@OfcrACab/confessions-of-a-former-bastard-cop-bb14d17bc759) (Medium)
-
-
-  [Police: Last Week Tonight with John Oliver](https://www.youtube.com/watch?v=Wf4cea5oObY) (HBO)
 rebuttal_zh: >-
   当人们说"没有好警察"时，这并不意味着所有的警察都是动机不好的坏人。但充其量，“好”警察是沉默的，在一个允许坏警察继续逃避暴力出警的惩罚、歧视和腐败的系统中，他们是同谋。（因为通常如果他们提出了不同意见，他们会遭受严重后果
   – 所以被称为[沉默的蓝墙](https://en.wikipedia.org/wiki/Blue_wall_of_silence))。
@@ -39,24 +21,21 @@ rebuttal_zh: >-
 
 
   无可争辩的是，问题出在只把注意力集中到个别警察上，而没有关注让好警察取得成功所需的系统性变革。在美国，整个警务激励结构是复杂和有缺陷的——我们不应该专注于改变个别警察，而应该专注于修复整个系统。
-
-
-  ## 问问自己
-
-
-  美国的医生和律师需要执照和渎职保险——当警察造成伤害时，谁应该承担责任？当警察和他们的主管对不良行为视而不见时，谁来控制他们的行为？
-
-
-  ## 了解更多
-
-
-  [Blue Wall of Silence](https://www.themarshallproject.org/records/605-blue-wall-of-silence) (Marshall Project)
-
-
-  [Confessions of a Former Bastard Cop](https://medium.com/@OfcrACab/confessions-of-a-former-bastard-cop-bb14d17bc759) (Medium)
-
-
-  [Police: Last Week Tonight with John Oliver](https://www.youtube.com/watch?v=Wf4cea5oObY) (HBO)
+ask_yourself: Doctors and lawyers in America need licenses and malpractice
+  insurance—who should be held responsible when police cause harm? When cops and
+  their supervisors turn a blind eye to bad behaviors, who polices their
+  behavior?
+ask_yourself_zh: 美国的医生和律师需要执照和渎职保险——当警察造成伤害时，谁应该承担责任？当警察和他们的主管对不良行为视而不见时，谁来控制他们的行为？
 category: Law & Order
 color: "#58280B"
+read_more:
+  - url: https://www.themarshallproject.org/records/605-blue-wall-of-silence
+    link_title: Blue Wall of Silence
+    source: Marshall Project
+  - url: https://medium.com/@OfcrACab/confessions-of-a-former-bastard-cop-bb14d17bc759
+    link_title: Confessions of a Former Bastard Cop
+    source: Medium
+  - url: https://www.youtube.com/watch?v=Wf4cea5oObY
+    link_title: "Police: Last Week Tonight with John Oliver"
+    source: HBO
 ---
