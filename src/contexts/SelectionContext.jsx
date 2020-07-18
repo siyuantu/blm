@@ -93,7 +93,11 @@ export const SelectionProvider = ({ children }) => {
 
   return (
     <SelectionContext.Provider
-      value={{ selectedTalkingPointTitle, setSelectedTalkingPointTitle }}
+      value={{
+        getHashForTitle,
+        selectedTalkingPointTitle,
+        setSelectedTalkingPointTitle,
+      }}
     >
       {children}
     </SelectionContext.Provider>

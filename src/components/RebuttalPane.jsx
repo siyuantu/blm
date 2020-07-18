@@ -12,6 +12,7 @@ const RebuttalPane = React.forwardRef(
       backgroundImageAlignment,
       backgroundImageUrl,
       content,
+      isSingleColumnLayout,
       readMoreLinks,
       readMoreSectionTitle,
       style,
@@ -22,7 +23,9 @@ const RebuttalPane = React.forwardRef(
   ) => {
     return (
       <div
-        className="rebuttal-pane"
+        className={`rebuttal-pane${
+          isSingleColumnLayout ? ' rebuttal-pane--is-single-column-layout' : ''
+        }`}
         ref={ref}
         style={{
           color: textColor,
@@ -53,7 +56,9 @@ const RebuttalPane = React.forwardRef(
               {askYourselfContent && (
                 <>
                   <h2>{askYourselfSectionTitle}</h2>
-                  <Markdown>{askYourselfContent}</Markdown>
+                  <div className="rebuttal-pane__markdown">
+                    <Markdown>{askYourselfContent}</Markdown>
+                  </div>
                 </>
               )}
               {readMoreLinks && readMoreLinks.length && (
@@ -64,7 +69,9 @@ const RebuttalPane = React.forwardRef(
                     {readMoreLinks.map(({ url, link_title, source }) => (
                       <li>
                         <div className="rebuttal-pane__read-more-link">
-                          <div className="rebuttal-pane__read-more-link-image" />
+                          <a href={url}>
+                            <div className="rebuttal-pane__read-more-link-image" />
+                          </a>
                           <div>
                             <a href={url}>{link_title}</a>
                             <span>{` (${source})`}</span>
@@ -108,6 +115,7 @@ RebuttalPane.propTypes = {
   backgroundImageAlignment: PropTypes.string,
   backgroundImageUrl: PropTypes.string,
   content: PropTypes.string.isRequired,
+  isSingleColumnLayout: PropTypes.bool,
   style: PropTypes.object, // eslint-disable-line react/forbid-prop-types
   readMoreSectionTitle: PropTypes.string,
   readMoreLinks: PropTypes.arrayOf(
@@ -127,6 +135,7 @@ RebuttalPane.defaultProps = {
   askYourselfSectionTitle: 'Ask Yourself',
   backgroundImageAlignment: 'right',
   backgroundImageUrl: '',
+  isSingleColumnLayout: false,
   readMoreLinks: [],
   readMoreSectionTitle: 'Read More',
   style: undefined,

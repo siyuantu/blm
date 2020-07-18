@@ -15,12 +15,13 @@ import RebuttalPane from './RebuttalPane';
 import TalkingPointBlock from './TalkingPointBlock';
 import './all.sass';
 
-const TalkingPointsGrid = ({ maxBlockSizePx }) => {
+const TalkingPointsGrid = ({ maxBlockSizePx, minBlockSizePx }) => {
   const talkingPoints = useTalkingPoints();
   const { language } = useContext(I18nContext);
   const blockRefs = useRef({});
 
   const {
+    getHashForTitle,
     selectedTalkingPointTitle,
     setSelectedTalkingPointTitle,
   } = useContext(SelectionContext);
@@ -42,8 +43,13 @@ const TalkingPointsGrid = ({ maxBlockSizePx }) => {
 
   const minBlockCountPerRow = Math.ceil(availableWidthPx / maxBlockSizePx);
 
-  const blockCountPerRow = minBlockCountPerRow;
-  const blockSizePx = Math.floor(availableWidthPx / blockCountPerRow);
+  let blockCountPerRow = minBlockCountPerRow;
+  let blockSizePx = Math.floor(availableWidthPx / blockCountPerRow);
+
+  if (blockSizePx < minBlockSizePx) {
+    blockCountPerRow = Math.floor(availableWidthPx / minBlockSizePx);
+    blockSizePx = Math.floor(availableWidthPx / blockCountPerRow);
+  }
 
   const handleBlockRef = useCallback((title, ref) => {
     if (ref) {
@@ -167,13 +173,21 @@ const TalkingPointsGrid = ({ maxBlockSizePx }) => {
     [updateRebuttalPaneHeight]
   );
 
-  const handleRebuttalPaneTransitionEnd = useCallback((evt) => {
-    if (parseInt(evt.target.style.height, 10) === 0) {
-      setRebuttalPaneVisible(false);
-    }
+  const handleRebuttalPaneTransitionEnd = useCallback(
+    (evt) => {
+      if (parseInt(evt.target.style.height, 10) === 0) {
+        setRebuttalPaneVisible(false);
+      } else if (blockRefs.current[selectedTalkingPointTitle]) {
+        blockRefs.current[selectedTalkingPointTitle].scrollIntoView({
+          behavior: 'smooth',
+          block: 'start',
+        });
+      }
 
-    setRebuttalPaneHeightIsAnimating(false);
-  }, []);
+      setRebuttalPaneHeightIsAnimating(false);
+    },
+    [selectedTalkingPointTitle]
+  );
 
   useEffect(() => {
     if (selectedTalkingPointTitle) {
@@ -218,13 +232,6 @@ const TalkingPointsGrid = ({ maxBlockSizePx }) => {
 
       window.requestAnimationFrame(() => {
         updateRebuttalPaneHeight();
-
-        if (blockRefs.current[selectedTalkingPointTitle]) {
-          blockRefs.current[selectedTalkingPointTitle].scrollIntoView({
-            behavior: 'smooth',
-            block: 'start',
-          });
-        }
       });
     }
   }, [selectedTalkingPointTitle, updateRebuttalPaneHeight]);
@@ -247,37 +254,40 @@ const TalkingPointsGrid = ({ maxBlockSizePx }) => {
               language === 'en' ? category.title : category.title_zh;
           }
 
+          const xOffset = columnIndex * blockSizePx;
+          let yOffset = rowIndex * blockSizePx;
+
+          if (rowIndex > selectedTalkingPointRowIndex) {
+            yOffset += rebuttalPaneHeightPx;
+          }
+
           return (
-            <li className="talking-points-grid__talking-point-wrapper">
-              <TalkingPointBlock
-                aria-haspopup
-                aria-expanded={isSelected}
-                backgroundColor={color}
-                category={categoryDisplayName}
-                id={title}
-                isSelected={isSelected}
-                key={title}
-                ref={(ref) => handleBlockRef(title, ref)}
-                style={{
-                  position: 'absolute',
-                  width: blockSizePx,
-                  height: blockSizePx,
-                  transform: `translate3d(${columnIndex * blockSizePx}px, ${
-                    rowIndex * blockSizePx
-                  }px, 0)`,
-                }}
-                textColor="white"
-                title={language === 'en' ? title : title_zh}
-                onKeyDown={makeHandleKeyDown(title, i)}
-                onClick={
-                  !isSelected
-                    ? () => {
-                        setSelectedTalkingPointTitle(title);
-                      }
-                    : undefined
-                }
-              />
-            </li>
+            <TalkingPointBlock
+              aria-haspopup
+              aria-expanded={isSelected}
+              backgroundColor={color}
+              category={categoryDisplayName}
+              component="li"
+              id={getHashForTitle(title)}
+              isSelected={isSelected}
+              key={title}
+              ref={(ref) => handleBlockRef(title, ref)}
+              style={{
+                width: blockSizePx,
+                height: blockSizePx,
+                transform: `translate3d(${xOffset}px, ${yOffset}px, 0)`,
+              }}
+              textColor="white"
+              title={language === 'en' ? title : title_zh}
+              onKeyDown={makeHandleKeyDown(title, i)}
+              onClick={
+                !isSelected
+                  ? () => {
+                      setSelectedTalkingPointTitle(title);
+                    }
+                  : undefined
+              }
+            />
           );
         })}
       </ul>
@@ -315,6 +325,7 @@ const TalkingPointsGrid = ({ maxBlockSizePx }) => {
                 ? selectedTalkingPoint.rebuttal
                 : selectedTalkingPoint.rebuttal_zh
             }
+            isSingleColumnLayout={availableWidthPx < 840}
             readMoreLinks={selectedTalkingPoint.read_more}
             readMoreSectionTitle={language !== 'en' ? '了解更多' : undefined}
             ref={handleRebuttalPaneRef}
@@ -331,10 +342,12 @@ const TalkingPointsGrid = ({ maxBlockSizePx }) => {
 
 TalkingPointsGrid.propTypes = {
   maxBlockSizePx: PropTypes.number,
+  minBlockSizePx: PropTypes.number,
 };
 
 TalkingPointsGrid.defaultProps = {
   maxBlockSizePx: 420,
+  minBlockSizePx: 340,
 };
 
 export default TalkingPointsGrid;

@@ -7,6 +7,7 @@ const TalkingPointBlock = React.forwardRef(
     {
       backgroundColor,
       category,
+      component,
       isSelected,
       style,
       textColor,
@@ -14,30 +15,34 @@ const TalkingPointBlock = React.forwardRef(
       ...props
     },
     ref
-  ) => (
-    <div
-      {...props} // eslint-disable-line react/jsx-props-no-spreading
-      className={`talking-point ${
-        isSelected ? 'talking-point--is-selected' : ''
-      }`}
-      ref={ref}
-      role="button"
-      style={{
-        color: textColor,
-        backgroundColor,
-        ...style,
-      }}
-      tabIndex={0}
-    >
-      <div className="talking-point__category">{category}</div>
-      <div className="talking-point__title">{title}</div>
-    </div>
-  )
+  ) =>
+    React.createElement(
+      component,
+      {
+        ...props, // eslint-disable-line react/jsx-props-no-spreading
+        className: `talking-point ${
+          isSelected ? 'talking-point--is-selected' : ''
+        }`,
+        ref,
+        role: 'button',
+        style: {
+          color: textColor,
+          backgroundColor,
+          ...style,
+        },
+        tabIndex: 0,
+      },
+      <>
+        <div className="talking-point__category">{category}</div>
+        <div className="talking-point__title">{title}</div>
+      </>
+    )
 );
 
 TalkingPointBlock.propTypes = {
   backgroundColor: PropTypes.string.isRequired,
   category: PropTypes.string.isRequired,
+  component: PropTypes.elementType,
   isSelected: PropTypes.bool,
   style: PropTypes.object, // eslint-disable-line react/forbid-prop-types
   title: PropTypes.string.isRequired,
@@ -47,6 +52,7 @@ TalkingPointBlock.propTypes = {
 };
 
 TalkingPointBlock.defaultProps = {
+  component: 'div',
   isSelected: false,
   style: undefined,
   onClick: undefined,

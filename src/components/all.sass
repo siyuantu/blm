@@ -78,15 +78,26 @@ a
     right: 0
     transform: translate3d(0, 0, 0)
     transition: height 250ms ease, opacity 250ms linear
+    box-shadow: 0 0 2em rgba(0, 0, 0, 0.6)
 
 .talking-point
+  display: block
+  position: absolute
   padding: 2.5em
   width: 24em
   height: 24em
+  outline: none
+  box-shadow: 0 0 0 rgba(0, 0, 0, 0.6)
+  transition: box-shadow 250ms ease, transform 250ms ease
 
   &:focus,
   &--is-selected
+    box-shadow: 0 0 0 .5em inset rgba(255, 255, 255, 0.4)
     z-index: 1
+
+  &:hover:not(:focus):not(&--is-selected)
+    box-shadow: 0 0 2em rgba(0, 0, 0, 0.6)
+    z-index: 2
 
   &__category
     font-size: 1.125em
@@ -133,17 +144,26 @@ a
   &__content
     display: flex
     flex-direction: row
-    flex-wrap: wrap
     font-size: 1.5em
     min-height: 20em
     padding: 3em
 
   &__column
     flex: 1
-    min-width: 16em
+
+    > * + *
+      margin-top: 1em
 
     &:not(:first-child)
       margin-left: 3em
+
+  &--is-single-column-layout &__content
+    flex-direction: column
+
+  &--is-single-column-layout &__column
+    &:not(:first-child)
+      margin-left: 0
+      margin-top: 3em
 
   &__markdown
     font-size: inherit
@@ -157,6 +177,10 @@ a
     * + *
       margin-top: 1em
 
+    ul
+      list-style: disc
+      padding-left: 1.5em
+
   h2
     font-size: 1.5em
     font-weight: 600
@@ -165,7 +189,7 @@ a
     margin-top: 1em
 
     > *:not(:first-child)
-      margin-top: 0.5em
+      margin-top: 1em
 
   &__read-more-link
     display: flex
