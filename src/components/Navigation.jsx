@@ -1,18 +1,18 @@
 import React, { useContext } from 'react';
-import usePages from '../hooks/usePages';
+import useTabs from '../hooks/useTabs';
 import I18nContext from '../contexts/I18nContext';
 import NavigationItem from './NavigationItem';
 import LanguageToggle from './LanguageToggle';
 import './all.sass';
 
 const Navigation = () => {
-  const pages = usePages();
+  const tabs = useTabs();
   const { language } = useContext(I18nContext);
 
   return (
     /* eslint-disable camelcase */
     <div className="navigation">
-      {pages.map(({ title, title_zh, url }) => (
+      {tabs.map(({ title, title_zh, url }) => (
         <NavigationItem
           className="navigation__item"
           key={url}

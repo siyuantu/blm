@@ -1,9 +1,9 @@
 exports.onCreatePage = ({ page, actions }) => {
   const { createPage } = actions;
   if (page.path === '/') {
-    createPage({
-      ...page,
-      matchPath: '/*',
-    });
+    // eslint-disable-next-line no-param-reassign
+    page.matchPath = '/*';
+
+    createPage(page);
   }
 };

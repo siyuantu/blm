@@ -1,10 +1,13 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { StaticRouter } from 'react-router';
+import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import { I18nProvider } from '../contexts/I18nContext';
 import { SelectionProvider } from '../contexts/SelectionContext';
+import AboutTab from '../components/AboutTab';
 import Navigation from '../components/Navigation';
 import IndexPageTemplate from '../templates/IndexPage';
-import AboutPage from './AboutPage';
+
+const Router = typeof window !== 'undefined' ? BrowserRouter : StaticRouter;
 
 const IndexPage = () => (
   <Router>
@@ -15,7 +18,7 @@ const IndexPage = () => (
             <Navigation />
             <Switch>
               <Route path="/about">
-                <AboutPage />
+                <AboutTab />
               </Route>
               <Route path="/">
                 <IndexPageTemplate />

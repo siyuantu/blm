@@ -2,9 +2,9 @@ import { useMemo } from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
 
 const query = graphql`
-  query pages {
-    pages: allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "/pages/" } }
+  query tabs {
+    tabs: allMarkdownRemark(
+      filter: { fileAbsolutePath: { regex: "/tabs/" } }
       sort: { fields: frontmatter___order }
     ) {
       nodes {
@@ -20,12 +20,12 @@ const query = graphql`
   }
 `;
 
-export default function usePages() {
+export default function useTabs() {
   const data = useStaticQuery(query);
 
-  const { nodes: pageNodes } = data.pages;
+  const { nodes: tabNodes } = data.tabs;
 
-  return useMemo(() => pageNodes.map(({ frontmatter }) => frontmatter), [
-    pageNodes,
+  return useMemo(() => tabNodes.map(({ frontmatter }) => frontmatter), [
+    tabNodes,
   ]);
 }

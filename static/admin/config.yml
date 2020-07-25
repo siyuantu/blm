@@ -19,9 +19,9 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Title (zh)", name: "title_zh", widget: "string"}
-  - name: "pages"
-    label: "Pages"
-    folder: "src/pages"
+  - name: "tabs"
+    label: "Tabs"
+    folder: "src/tabs"
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Title (zh)", name: "title_zh", widget: "string"}
