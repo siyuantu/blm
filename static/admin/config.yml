@@ -19,6 +19,16 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Title (zh)", name: "title_zh", widget: "string"}
+  - name: "pages"
+    label: "Pages"
+    folder: "src/pages"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Title (zh)", name: "title_zh", widget: "string"}
+      - {label: "Content", name: "content", widget: "markdown"}
+      - {label: "Content (zh)", name: "content_zh", widget: "markdown"}
+      - {label: "URL", name: "url", widget: "string"}
+      - {label: "Order", name: "order", widget: "number"}
   - name: "talking_points"
     label: "Talking points"
     folder: "src/talking_points"

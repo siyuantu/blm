@@ -52,15 +52,19 @@ a
   &:not(:first-child)
     border-left: 2px solid white
 
-.page__header
+.navigation
   display: flex
   flex-direction: row
   font-size: 1.5em
 
-  .page__header-spacer
+  &__item
+    &:not(:first-child)
+      margin-left: 1em
+
+  &__spacer
     flex: 1
 
-.page__header-link
+.navigation-item
   font-weight: bold
   text-decoration: none
 

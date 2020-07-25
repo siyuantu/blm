@@ -60,7 +60,10 @@ const TalkingPointsGrid = ({ maxBlockSizePx, minBlockSizePx }) => {
   }, []);
 
   const handleCloseButtonClick = useCallback(() => {
-    if (selectedTalkingPointTitle) {
+    if (
+      selectedTalkingPointTitle &&
+      blockRefs.current[selectedTalkingPointTitle]
+    ) {
       blockRefs.current[selectedTalkingPointTitle].focus({
         preventScroll: true,
       });
@@ -110,7 +113,10 @@ const TalkingPointsGrid = ({ maxBlockSizePx, minBlockSizePx }) => {
           break;
 
         case 'Escape':
-          if (selectedTalkingPointTitle) {
+          if (
+            selectedTalkingPointTitle &&
+            blockRefs.current[selectedTalkingPointTitle]
+          ) {
             blockRefs.current[selectedTalkingPointTitle].focus();
           }
 
@@ -223,9 +229,11 @@ const TalkingPointsGrid = ({ maxBlockSizePx, minBlockSizePx }) => {
         setRebuttalPaneOpacity(0);
       });
     } else {
-      blockRefs.current[selectedTalkingPointTitle].focus({
-        preventScroll: true,
-      });
+      if (blockRefs.current[selectedTalkingPointTitle]) {
+        blockRefs.current[selectedTalkingPointTitle].focus({
+          preventScroll: true,
+        });
+      }
 
       setRebuttalPaneVisible(true);
       setRebuttalPaneOpacity(1);
@@ -243,53 +251,54 @@ const TalkingPointsGrid = ({ maxBlockSizePx, minBlockSizePx }) => {
         className="talking-points-grid__talking-points-wrapper"
         style={{ height: totalHeightPx }}
       >
-        {talkingPoints.map(({ category, color, title, title_zh }, i) => {
-          const rowIndex = Math.floor(i / blockCountPerRow);
-          const columnIndex = i % blockCountPerRow;
-          const isSelected = displayedTitle === title;
+        {availableWidthPx > 0 &&
+          talkingPoints.map(({ category, color, title, title_zh }, i) => {
+            const rowIndex = Math.floor(i / blockCountPerRow);
+            const columnIndex = i % blockCountPerRow;
+            const isSelected = displayedTitle === title;
 
-          let categoryDisplayName;
-          if (category) {
-            categoryDisplayName =
-              language === 'en' ? category.title : category.title_zh;
-          }
+            let categoryDisplayName;
+            if (category) {
+              categoryDisplayName =
+                language === 'en' ? category.title : category.title_zh;
+            }
 
-          const xOffset = columnIndex * blockSizePx;
-          let yOffset = rowIndex * blockSizePx;
+            const xOffset = columnIndex * blockSizePx;
+            let yOffset = rowIndex * blockSizePx;
 
-          if (rowIndex > selectedTalkingPointRowIndex) {
-            yOffset += rebuttalPaneHeightPx;
-          }
+            if (rowIndex > selectedTalkingPointRowIndex) {
+              yOffset += rebuttalPaneHeightPx;
+            }
 
-          return (
-            <TalkingPointBlock
-              aria-haspopup
-              aria-expanded={isSelected}
-              backgroundColor={color}
-              category={categoryDisplayName}
-              component="li"
-              id={getHashForTitle(title)}
-              isSelected={isSelected}
-              key={title}
-              ref={(ref) => handleBlockRef(title, ref)}
-              style={{
-                width: blockSizePx,
-                height: blockSizePx,
-                transform: `translate3d(${xOffset}px, ${yOffset}px, 0)`,
-              }}
-              textColor="white"
-              title={language === 'en' ? title : title_zh}
-              onKeyDown={makeHandleKeyDown(title, i)}
-              onClick={
-                !isSelected
-                  ? () => {
-                      setSelectedTalkingPointTitle(title);
-                    }
-                  : undefined
-              }
-            />
-          );
-        })}
+            return (
+              <TalkingPointBlock
+                aria-haspopup
+                aria-expanded={isSelected}
+                backgroundColor={color}
+                category={categoryDisplayName}
+                component="li"
+                id={getHashForTitle(title)}
+                isSelected={isSelected}
+                key={title}
+                ref={(ref) => handleBlockRef(title, ref)}
+                style={{
+                  width: blockSizePx,
+                  height: blockSizePx,
+                  transform: `translate3d(${xOffset}px, ${yOffset}px, 0)`,
+                }}
+                textColor="white"
+                title={language === 'en' ? title : title_zh}
+                onKeyDown={makeHandleKeyDown(title, i)}
+                onClick={
+                  !isSelected
+                    ? () => {
+                        setSelectedTalkingPointTitle(title);
+                      }
+                    : undefined
+                }
+              />
+            );
+          })}
       </ul>
       {rebuttalPaneIsVisible && (
         <div
