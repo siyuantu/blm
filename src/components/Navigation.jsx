@@ -12,16 +12,19 @@ const Navigation = () => {
   return (
     /* eslint-disable camelcase */
     <div className="navigation">
-      {tabs.map(({ title, title_zh, url }) => (
-        <NavigationItem
-          className="navigation__item"
-          key={url}
-          title={language === 'en' ? title : title_zh}
-          url={url}
-        />
-      ))}
-      <div className="navigation__spacer" />
-      <LanguageToggle />
+      <div className="navigation__tabs">
+        {tabs.map(({ title, title_zh, url }) => (
+          <NavigationItem
+            className="navigation__item"
+            key={url}
+            title={language === 'en' ? title : title_zh}
+            url={url}
+          />
+        ))}
+      </div>
+      <div className="navigation__language-toggle">
+        <LanguageToggle />
+      </div>
     </div>
     /* eslint-enable camelcase */
   );
