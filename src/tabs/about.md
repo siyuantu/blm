@@ -27,9 +27,9 @@ content: >-
 
   Notes:
 
-  1. I worked with a translator to convert my research from English to Chinese.
+    1. I worked with a translator to convert my research from English to Chinese.
 
-  2. I cited U.S. news sources marked as “Most Reliable for News” (see [the Media Bias Chart](https://www.adfontesmedia.com/interactive-media-bias-chart/)). In today’s era of disinformation, these sources provide more objective, trusted reporting.
+    2. I cited U.S. news sources marked as “Most Reliable for News” (see [the Media Bias Chart](https://www.adfontesmedia.com/interactive-media-bias-chart/)). In today’s era of disinformation, these sources provide more objective, trusted reporting.
 
 
   Additional Resources

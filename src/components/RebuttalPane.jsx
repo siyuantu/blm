@@ -47,7 +47,7 @@ const RebuttalPane = React.forwardRef(
             />
           )}
           <div className="rebuttal-pane__column">
-            <div className="rebuttal-pane__markdown">
+            <div className="markdown rebuttal-pane__markdown">
               <Markdown>{content}</Markdown>
             </div>
           </div>

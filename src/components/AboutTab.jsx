@@ -8,7 +8,11 @@ const AboutTab = () => {
   const tab = useTabs().find(({ url }) => url === '/about');
 
   return (
-    <Markdown>{language === 'en' ? tab.content : tab.content_zh}</Markdown>
+    <div className="tab-content">
+      <Markdown className="markdown">
+        {language === 'en' ? tab.content : tab.content_zh}
+      </Markdown>
+    </div>
   );
 };
 
