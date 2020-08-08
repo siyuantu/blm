@@ -2,38 +2,37 @@
 title: About This Project
 title_zh: 关于本项目
 content: >-
-  
+  #### As Asian Americans, we live with an interesting tension: even as we face
+  discrimination in this country, many of us ignore—or worse,
+  perpetuate—anti-Blackness and other forms of racism within our communities and
+  within ourselves.
 
 
-
-  As Asian Americans, we live with an interesting tension: even as we face discrimination in this country, many of us ignore—or worse, perpetuate—anti-Blackness and other forms of racism within our communities and within ourselves.
-
-
-  Inspired by the [Letters for Black Lives](https://lettersforblacklives.com/mom-dad-uncle-auntie-grandfather-grandmother-family-c7525176ed14) project, I wanted a resource that communicated the intention behind the Black Lives Matter movement, but also dug deeper to examine where the stereotypes and biases in our community come from. I created this site to summarize some of those complex socioeconomic concepts in a more accessible, factual way.
+  #### Inspired by the [Letters for Black Lives](https://lettersforblacklives.com/mom-dad-uncle-auntie-grandfather-grandmother-family-c7525176ed14) project, I wanted a resource that communicated the intention behind the Black Lives Matter movement, but also dug deeper to examine where the stereotypes and biases in our community come from. I created this site to summarize some of those complex socioeconomic concepts in a more accessible, factual way.
 
 
-  Educating ourselves about the Black Lives Matter movement means recognizing how intertwined the Asian American legacy is with that of Black civil rights movements in America. And, educating ourselves means fighting for our own civil rights, the future of civic engagement, and intergenerational dialogue.
+  #### Educating ourselves about the Black Lives Matter movement means recognizing how intertwined the Asian American legacy is with that of Black civil rights movements in America. And, educating ourselves means fighting for our own civil rights, the future of civic engagement, and intergenerational dialogue.
 
 
-  This journey requires self-reflection and empathy for groups of people who are not like you. A few things to consider:
+  #### This journey requires self-reflection and empathy for groups of people who are not like you. A few things to consider:
 
 
-  * Issues of race are often systemic: it is impossible to try to untangle any one of these issues without also learning about economics, government policies, sociology, and so on.
+  * #### Issues of race are often systemic: it is impossible to try to untangle any one of these issues without also learning about economics, government policies, sociology, and so on.
 
-  * Look to history to understand the origins of racial myths: cultural stereotypes can come from groups of people, but it can also come from government policies and politics.
+  * #### Look to history to understand the origins of racial myths: cultural stereotypes can come from groups of people, but it can also come from government policies and politics.
 
-  * If you are a U.S. citizen, the minimum you can do is vote for elected leaders who fight for democracy and representation for all.
-
-
-  Notes:
+  * #### If you are a U.S. citizen, the minimum you can do is vote for elected leaders who fight for democracy and representation for all.
 
 
-  1. I worked with a translator to convert my research from English to Chinese.
-
-  2. I cited U.S. news sources marked as “Most Reliable for News” (see [the Media Bias Chart](https://www.adfontesmedia.com/interactive-media-bias-chart/)). In today’s era of disinformation, these sources provide more objective, trusted reporting.
+  #### Notes:
 
 
-  Additional Resources
+  1. #### I worked with a translator to convert my research from English to Chinese.
+
+  2. #### I cited U.S. news sources marked as “Most Reliable for News” (see [the Media Bias Chart](https://www.adfontesmedia.com/interactive-media-bias-chart/)). In today’s era of disinformation, these sources provide more objective, trusted reporting.
+
+
+  #### Additional Resources
 content_zh: >-
   作为亚裔美国人，我们生活在一种有趣的紧张关系中：即使我们在这个国家面临歧视，我们中的许多人也会忽视 - 或者更糟糕的是，在我们的社区和我们自己内部 -
   存在反黑人和其他形式的种族主义。
