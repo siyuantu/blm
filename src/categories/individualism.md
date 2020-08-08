@@ -1,4 +1,4 @@
 ---
 title: Individualism
-title_zh: "[]"
+title_zh: " 個人主義"
 ---
