@@ -21,6 +21,7 @@ rebuttal_zh: >-
 
 
   无可争辩的是，问题出在只把注意力集中到个别警察上，而没有关注让好警察取得成功所需的系统性变革。在美国，整个警务激励结构是复杂和有缺陷的——我们不应该专注于改变个别警察，而应该专注于修复整个系统。
+background_image_url: https://upload.wikimedia.org/wikipedia/commons/b/bf/Portland_Black_Lives_Matter_protest_June_13%2C_2020_07.jpg
 ask_yourself: Doctors and lawyers in America need licenses and malpractice
   insurance—who should be held responsible when police cause harm? When cops and
   their supervisors turn a blind eye to bad behaviors, who polices their
