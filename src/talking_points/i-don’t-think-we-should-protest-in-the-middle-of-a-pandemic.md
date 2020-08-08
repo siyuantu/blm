@@ -26,6 +26,7 @@ rebuttal_zh: >-
 
 
   最后，来自美国多个城市的最新数据显示，抗议活动并未导致新冠肺炎病例明显增加。
+background_image_url: https://upload.wikimedia.org/wikipedia/commons/b/b4/Black_Lives_Matter_Rotterdam_%2820%29.jpg
 ask_yourself: Consider how the urgency of the protests might change if you and
   your family, or your race, were the targets of police brutality and violence
   in this country.
