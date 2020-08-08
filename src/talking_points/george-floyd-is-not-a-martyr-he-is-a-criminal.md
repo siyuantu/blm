@@ -9,6 +9,8 @@ rebuttal: This is beside the point. Whatever his past, it doesn’t take away
   should be determined by a jury of peers. And if guilty, his sentence should be
   determined by a judge, in accordance with the charges.
 rebuttal_zh: 这一点无关紧要。不管他的过去做了什么，这并不能夺走弗洛伊德获得公平审判的权利。他不必成为烈士，他的死是不可接受的和不公正的。当警察进行逮捕时，犯罪史并不重要，它不能成为过度使用武力或谋杀的理由，尤其是当此人已经受到人身限制时。弗洛伊德，或者任何人的有罪或无罪应该由陪审团来决定。如果有罪，他的刑期应该由法官根据指控确定。
+background_image_url: https://live.staticflickr.com/65535/49958895677_9ecc95179d_b.jpg
+background_image_alignment: bottom
 ask_yourself: >-
   - How would this situation have been different if he was not a visible
   minority?
