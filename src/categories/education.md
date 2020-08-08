@@ -1,4 +1,4 @@
 ---
 title: Education
-title_zh: "[]"
+title_zh: 教育
 ---
