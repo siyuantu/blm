@@ -1,4 +1,4 @@
 ---
 title: Safety
-title_zh: "[]"
+title_zh: " 安全"
 ---
