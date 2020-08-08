@@ -20,6 +20,7 @@ rebuttal_zh: >-
 
   另一方面，一些人确实想要解散目前的警察部队。对他们来说，警察系统本质上是不平等的，信任已受到了无法修复的损害。他们想从头开始，从头开始建立一个新的系统。这并不意味着不再有紧急服务 - 会在考虑到社区的情况下，建立一个新的响应系统。[以下是新泽西州卡姆登](https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/06/08/872416644/former-chief-of-reformed-camden-n-j-force-police-need-consent-of-the-people)在2013年成功做到这一点的一个例子。
 background_image_url: https://upload.wikimedia.org/wikipedia/commons/b/b9/06-07_15_Black_Lives_Matter_%2849984140152%29.jpg
+background_image_alignment: right
 ask_yourself: >-
   - Does the person we send to catch a robber also need to be the person we send
   to interview a rape victim or document a fender bender? Should one profession
