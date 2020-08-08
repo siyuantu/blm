@@ -30,6 +30,7 @@ rebuttal_zh: >-
 
   最后，考虑一下更长的历史弧线。美国通过暴力革命(如美国革命、内战)赢得了许多自由。“很多人都在问，暴力是否是产生社会变革的有效手段。历史给出了肯定的硬核答案。” \[2] 阻止抗议转为暴力的最佳方法是聆听和平抗议，并认真考虑进行改变以解决所提出的问题。
 background_image_url: https://live.staticflickr.com/65535/49980819456_e605ce8aff_b.jpg
+background_image_alignment: right
 ask_yourself: Which groups of people are instigating the violence? What are
   their motivations?
 ask_yourself_zh: 哪些团体在煽动暴力？他们的动机是什么？
