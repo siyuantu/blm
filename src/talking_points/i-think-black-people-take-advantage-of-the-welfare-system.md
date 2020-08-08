@@ -21,6 +21,7 @@ rebuttal_zh: >-
   \
 
   这里有另一种观点：美国可以专注于为贫困家庭提供更可靠的经济援助、教育、住房保障和工作培训，这样他们就可以反过来专注于为他们的家庭进行更长期的投资，而不是时刻监管和抓获“搭便车不劳而获的人”。这些类型的投资将为整个社区带来长期利益。
+background_image_url: https://live.staticflickr.com/8870/27849837654_e682c394c5_b.jpg
 ask_yourself: Welfare comes in many forms. What do you think of when you imagine
   what a welfare program provides? How might you or your family members have
   benefited from welfare programs?
