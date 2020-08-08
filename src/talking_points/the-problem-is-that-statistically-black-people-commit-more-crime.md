@@ -20,7 +20,7 @@ rebuttal_zh: >-
 
 
   犯罪率也可以由其他相关的社会经济因素，如贫困、公共教育、隔离法和环境质量来解释。较高的犯罪率只是更突出了歧视的系统性和普遍性。
-background_image_url: https://live.staticflickr.com/1530/26576954745_a79ca4493e_k.jpg
+background_image_url: https://live.staticflickr.com/65535/49980596386_dffc228dd5_b.jpg
 background_image_alignment: right
 ask_yourself: Have you ever stood in front of a shop for a few minutes, driven a
   few miles over the speed limit, or jaywalked? Imagine if a police officer was
