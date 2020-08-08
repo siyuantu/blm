@@ -40,7 +40,7 @@ rebuttal_zh: >-
 
 
   2.请参考加利福尼亚州参议员霍莉·米切尔(Holly Mitchell)的话：“我不认识一个这样的女人 - 我也不认为她存在 - 她会为了每月多拿130美元而生孩子。”\[2]
-background_image_url: https://live.staticflickr.com/65535/49980596386_dffc228dd5_b.jpg
+background_image_url: https://live.staticflickr.com/1530/26576954745_a79ca4493e_k.jpg
 background_image_alignment: bottom
 ask_yourself: >-
   Imagine yourself as a single parent. What additional needs might you have, and
