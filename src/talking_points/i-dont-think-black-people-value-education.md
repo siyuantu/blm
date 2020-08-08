@@ -22,6 +22,8 @@ rebuttal_zh: >-
 
 
   我们需要一个系统，为美国所有儿童提供有意义的教育机会和资金。Black Girls Code, Inneract Project, 和Hip Hop Architecture是社区教育项目的例子，这些项目向孩子们展示了更多样化的职业发展道路。
+background_image_url: https://live.staticflickr.com/65535/48101374108_de39b771b0_b.jpg
+background_image_alignment: right
 ask_yourself: >-
   In what ways have you sought out education for yourself or your children? How
   were you able to do so?
