@@ -20,6 +20,7 @@ rebuttal_zh: >-
 
 
   抢劫的发生在一定程度上是因为抗议活动，而抗议活动的发生是因为社会中更多的系统性问题。这是一种在政治和经济上感到无能为力的反应。为了阻止人们抢掠，我们必须查找根本原因，并创造系统性的变化。在《大西洋月刊》上，一位政治学教授总结道：“防止抢劫的最好方法是为个人提供基本生活工资，满足他们的基本需求，以人应有的尊严对待他们，促成一条有通向富足的生活途径。”\[1] 金伯利·琼斯(Kimberly Jones)在[《我们如何才能获胜》](https://www.youtube.com/watch?v=sb9_qGOa9Go)一书中满怀激情地解释了这一点。
+background_image_url: https://live.staticflickr.com/65535/49981072177_c574f9c830_b.jpg
 ask_yourself: Why, in 2020, in the richest country in the world, do people feel
   the need to acquire possessions through looting?
 ask_yourself_zh: 为什么在2020年，在这个世界上最富有的国家，人们会觉得有必要通过抢劫来获取财产？
