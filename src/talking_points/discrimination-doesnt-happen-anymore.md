@@ -33,6 +33,7 @@ rebuttal_zh: >-
 
 
   总的来说，教育、就业、公共领域和医疗保健方面的歧视继续在今天的美国造成真正的伤害和压迫，尽管不那么明目张胆。
+background_image_url: https://upload.wikimedia.org/wikipedia/commons/b/b3/Black_Lives_Matter_Rally_20200605062_%2849975570021%29.jpg
 ask_yourself: >-
   Consider [this
   exercise](https://nationalseedproject.org/Key-SEED-Texts/white-privilege-unpacking-the-invisible-knapsack)
