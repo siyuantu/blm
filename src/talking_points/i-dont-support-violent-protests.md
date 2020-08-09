@@ -40,14 +40,18 @@ read_more:
   - url: https://www.theatlantic.com/politics/archive/2020/06/wesley-lowery-george-floyd-minneapolis-black-lives/612391/
     link_title: "[1] Why Minneapolis Was the Breaking Point"
     source: The Atlantic
+    image_url: https://cdn.theatlantic.com/thumbor/NBpYs69Z8Q6ayT9svVWvZ9v6Oy8=/1920x1440/media/img/2020/06/10/smJoshua_Rashaad_McFadden_GeorgeFloyd_Miski_Noor60/original.jpg
   - link_title: "[2] The Double Standard of the American Riot"
     url: https://www.theatlantic.com/culture/archive/2020/06/riots-are-american-way-george-floyd-protests/612466/
     source: The Atlantic
+    image_url: https://cdn.theatlantic.com/thumbor/5bw8NLxvFoKrVdolA1wXSudupZ4=/1344x1344/media/img/posts/2020/06/81196C49_B909_438C_A042_0360EE63F7C2_2/original.jpg
   - source: NPR
     url: https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/06/10/873751544/the-concerned-citizen-who-happens-to-be-armed-is-showing-up-at-protests
     link_title: "The 'Concerned Citizen Who Happens To Be Armed' Is Showing Up At
       Protests "
+    image_url: https://media.npr.org/assets/img/2020/06/10/protest-4-of-12--f5db5e0aed031264ff69e186d59bba5ed84e86c4-s1600-c85.jpg
   - url: https://thenewinquiry.com/black-riot/
     link_title: Black Riot
     source: The New Inquiry
+    image_url: https://thenewinquiry.com/app/uploads/2013/11/excerpt-riot-2003-1.jpg
 ---
