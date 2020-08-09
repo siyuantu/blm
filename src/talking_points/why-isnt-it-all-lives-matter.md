@@ -28,4 +28,5 @@ read_more:
     link_title: Why You Should Stop Saying "All Lives Matter," explained in 9
       different ways
     source: VOX
+    image_url: https://cdn.vox-cdn.com/thumbor/AjAHvwrGw37QX9FW72d9H7_lsjM=/0x0:4200x3092/1820x1213/filters:focal(1925x265:2597x937):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/66870647/GettyImages-460019528.0.jpg
 ---
