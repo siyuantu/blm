@@ -28,7 +28,7 @@ ask_yourself: Doctors and lawyers in America need licenses and malpractice
   behavior?
 ask_yourself_zh: 美国的医生和律师需要执照和渎职保险——当警察造成伤害时，谁应该承担责任？当警察和他们的主管对不良行为视而不见时，谁来控制他们的行为？
 category: Law & Order
-color: "#58280B"
+color: "#1F0E03"
 read_more:
   - url: https://www.themarshallproject.org/records/605-blue-wall-of-silence
     link_title: Blue Wall of Silence
