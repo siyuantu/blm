@@ -26,7 +26,9 @@ read_more:
   - url: https://www.pewresearch.org/fact-tank/2020/06/03/10-things-we-know-about-race-and-policing-in-the-u-s/
     link_title: 10 things we know about race and policing in the U.S.
     source: Pew Research
+    image_url: https://www.pewresearch.org/wp-content/uploads/2020/06/FT_20.06.02_RacePolicing_feature.jpg
   - url: https://www.nytimes.com/article/george-floyd-who-is.html
     link_title: George Floyd, From ‘I Want to Touch the World’ to ‘I Can’t Breathe’
     source: New York Times
+    image_url: https://static01.nyt.com/images/2020/06/09/us/00unrest-floydprofile01alt/merlin_173327667_67685113-1ffa-472b-8493-57383d2b8ffd-superJumbo.jpg?quality=90&auto=webp
 ---
