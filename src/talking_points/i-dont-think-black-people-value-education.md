@@ -35,7 +35,7 @@ ask_yourself_zh: |-
 
   你可以从教育系统中获益的方式有哪些？
 category: Education
-color: "#58280B"
+color: "#462009"
 read_more:
   - url: https://www.washingtonpost.com/posteverything/wp/2014/07/30/stop-blaming-black-parents-for-underachieving-kids/
     link_title: Stop blaming black parents for underachieving kids
