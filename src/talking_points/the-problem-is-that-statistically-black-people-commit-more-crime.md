@@ -35,4 +35,5 @@ read_more:
   - link_title: The Criminalization of Gentrifying Neighborhoods
     source: The Atlantic
     url: https://www.theatlantic.com/politics/archive/2017/12/the-criminalization-of-gentrifying-neighborhoods/548837/
+    image_url: https://cdn.theatlantic.com/thumbor/6QpfTqobdRoW4b-yxEkdlJdg_fw=/0x143:3500x2112/1440x810/media/img/mt/2017/12/RTR41RWQ/original.jpg
 ---
