@@ -38,15 +38,19 @@ read_more:
   - url: https://www.youtube.com/watch?v=Wf4cea5oObY
     source: HBO
     link_title: "Police: Last Week Tonight with John Oliver"
+    image_url: https://i.ytimg.com/vi/Wf4cea5oObY/maxresdefault.jpg
   - link_title: Eliminating this federal program would play a major part in
       demilitarizing the police
     source: Fast Company
     url: https://www.fastcompany.com/90513061/eliminating-this-federal-program-would-play-a-major-part-in-demilitarizing-the-police
+    image_url: https://images.fastcompany.net/image/upload/w_1153,ar_16:9,c_fill,g_auto,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/06/p-1-90513061-eliminating-this-program-would-play-a-major-part-in-demilitarizing-the-police.jpg
   - link_title: Police militarization fails to protect officers and targets black
       communities, study finds
     source: PBS
     url: https://www.pbs.org/newshour/science/police-militarization-fails-to-protect-officers-and-targets-black-communities-study-finds
+    image_url: https://d3i6fh83elv35t.cloudfront.net/static/2018/08/SWAT_2017-06-27T000000Z_514698812_RC1C471C4130_RTRMADP_3_LOUISIANA-POLICE-1200x800.jpg
   - link_title: Rough Justice (How America became overpoliced)
     source: The New Republic
     url: https://newrepublic.com/article/148304/rough-justice-america-over-policed
+    image_url: https://images.newrepublic.com/46a0984b25623285feb03f195979fe53692fbd34.jpeg?auto=compress&ar=1.5%3A2&fit=crop&crop=faces&q=65&fm=jpg&ixlib=react-9.0.1&w=3038
 ---
