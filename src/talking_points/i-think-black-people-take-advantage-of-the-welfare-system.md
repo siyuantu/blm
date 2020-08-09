@@ -32,12 +32,15 @@ read_more:
   - link_title: "[1] Busting the Myth of 'Welfare Makes People Lazy'"
     url: https://www.theatlantic.com/business/archive/2018/03/welfare-childhood/555119/
     source: The Atlantic
+    image_url: https://cdn.theatlantic.com/thumbor/v28BVIwx3vJN0ww7xWkvSArA_40=/0x293:3500x2262/1440x810/media/img/mt/2018/03/RTR3L2OJ/original.jpg
   - link_title: Dispelling the Myth of Welfare Dependency
     url: https://epod.cid.harvard.edu/article/dispelling-myth-welfare-dependency
     source: Harvard Kennedy School
+    image_url: https://epod.cid.harvard.edu/sites/default/files/2019-09/47496-5.jpg
   - link_title: The Myth of the Welfare Queen
     url: https://newrepublic.com/article/154404/myth-welfare-queen
     source: The New Republic
+    image_url: https://images.newrepublic.com/683e71ba2a21b8494b2101788c29625bf1cd250b.jpeg?auto=compress&ar=3%3A2&fit=crop&crop=faces&q=65&fm=jpg&ixlib=react-9.0.1&w=3038
   - url: https://prospect.org/economy/real-welfare-problem/
     link_title: The Real Welfare Problem
     source: The American Prospect
