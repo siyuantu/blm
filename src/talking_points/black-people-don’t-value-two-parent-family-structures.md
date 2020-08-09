@@ -54,4 +54,20 @@ ask_yourself_zh: |-
   试着寻找根本原因： 单亲家庭的一些系统性原因是什么？
 category: Family
 color: "#8A5413"
+read_more:
+  - link_title: "[1] The Origins of African-American Family Structure"
+    source: University of Minnesota
+    url: http://users.hist.umn.edu/~ruggles/Articles/Af-Am-fam.pdf
+  - link_title: "[2] California Deposes Its ‘Welfare Queen’"
+    url: https://www.nytimes.com/2016/07/24/opinion/sunday/california-deposes-its-welfare-queen.html
+    source: New York Times
+    image_url: https://static01.nyt.com/images/2016/07/23/opinion/24sun3web/24sun3web-superJumbo.jpg?quality=90&auto=webp
+  - link_title: The Myth of the Two-Parent Home
+    source: New York Times
+    url: https://www.nytimes.com/2019/12/09/opinion/two-parent-family.html
+    image_url: https://static01.nyt.com/images/2019/12/10/opinion/10Cross/merlin_165690042_0c2cd604-0f0d-49f7-acea-66e5b9895376-superJumbo.jpg?quality=90&auto=webp
+  - url: https://www.theatlantic.com/education/archive/2015/08/why-single-moms-struggle-with-college/401582/
+    link_title: "Single Moms and Welfare Woes: A Higher-Education Dilemma"
+    source: The Atlantic
+    image_url: https://cdn.theatlantic.com/thumbor/a8iaqI6lDmk-3CI5x3lLAGy6p5w=/0x219:4256x2613/1440x810/media/img/mt/2015/08/single_mothers/original.jpg
 ---
