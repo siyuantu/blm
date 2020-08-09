@@ -38,11 +38,14 @@ read_more:
     link_title: "[1] Over 1,000 health professionals sign a letter saying, Don't
       shut down protests using coronavirus concerns as an excuse"
     url: https://www.cnn.com/2020/06/05/health/health-care-open-letter-protests-coronavirus-trnd/index.html
+    image_url: https://cdn.cnn.com/cnnnext/dam/assets/200605004626-04-police-protests-0604-san-diego-exlarge-169.jpg
   - link_title: "[2] A Delicate Balance: Weighing Protest Against the Risks of the
       Coronavirus "
     url: https://www.nytimes.com/2020/06/07/us/Protest-coronavirus-george-floyd.html
     source: New York Times
+    image_url: https://static01.nyt.com/images/2020/06/07/us/07unrest-virus-1/merlin_173202873_ad6fc13c-8a3c-40c8-8f8c-7715712f4177-superJumbo.jpg?quality=90&auto=webp
   - link_title: Parties — Not Protests — Are Causing Spikes In Coronavirus
     url: https://www.npr.org/sections/coronavirus-live-updates/2020/06/24/883017035/what-contact-tracing-may-tell-about-cluster-spread-of-the-coronavirus
     source: NPR
+    image_url: https://media.npr.org/assets/img/2020/06/24/gettyimages-1220013438_wide-d5c386dcc4077fc04ac4ae9a1059994dcf1a29ae-s1600-c85.jpg
 ---
