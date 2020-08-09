@@ -29,10 +29,10 @@ content: >-
 
   1. #### I worked with a translator to convert my research from English to Chinese.
 
-  2. #### I cited U.S. news sources marked as “Most Reliable for News” (see [the Media Bias Chart](https://www.adfontesmedia.com/interactive-media-bias-chart/)). In today’s era of disinformation, these sources provide more objective, trusted reporting.
+  2. #### I cited U.S. news sources marked as “Most Reliable for News” (see [the Media Bias Chart](https://www.adfontesmedia.com/interactive-media-bias-chart/)). In today’s era of disinformation, these sources provide more objective, trusted reporting. Images sourced from Creative Commons.
 
 
-  #### Additional Resources
+  #### Please find additional resources [here](https://docs.google.com/spreadsheets/d/1bUJrgX8vspyy7YttiEC2vD0DawrpPYiZs94V0ov7qZQ/htmlview).
 content_zh: >-
   作为亚裔美国人，我们生活在一种有趣的紧张关系中：即使我们在这个国家面临歧视，我们中的许多人也会忽视 - 或者更糟糕的是，在我们的社区和我们自己内部 -
   存在反黑人和其他形式的种族主义。
