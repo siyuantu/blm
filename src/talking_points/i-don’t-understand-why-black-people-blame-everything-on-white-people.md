@@ -39,7 +39,7 @@ rebuttal_zh: >-
 
   我们永远希望将个人的成功归功于我们自己的辛勤工作。我们中很少有人会考虑其他群体也努力工作，但面临更多的结构性成功障碍。重要的是要认识到，即使你受益于模范的少数族裔神话，你也可能助长种族不公正。
 background_image_url: https://live.staticflickr.com/7703/27678798074_215d5313b8_b.jpg
-background_image_alignment: bottom
+background_image_alignment: right
 ask_yourself: >-
   Have there been times when I have experienced racism? What barriers have I
   faced?
