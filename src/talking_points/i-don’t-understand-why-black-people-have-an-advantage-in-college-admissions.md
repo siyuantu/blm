@@ -36,11 +36,14 @@ read_more:
   - link_title: "[1] The Myth of Reverse Racism "
     url: https://www.theatlantic.com/education/archive/2017/08/myth-of-reverse-racism/535689/
     source: The Atlantic
+    image_url: https://cdn.theatlantic.com/thumbor/eVNnqeNZXlr4MpcC-OGdzkh0kKo=/0x181:2200x1418/1440x810/media/img/mt/2017/08/RTRPOZ0/original.jpg
   - link_title: "[2] The Changing Meaning of Affirmative Action"
     url: https://www.newyorker.com/magazine/2020/01/20/have-we-outgrown-the-need-for-affirmative-action
     source: New Yorker
+    image_url: https://media.newyorker.com/photos/5e178f020ba263000805e57c/master/w_2560%2Cc_limit/200120_r35357.jpg
   - link_title: Even With Affirmative Action, Blacks and Hispanics Are More
       Underrepresented at Top Colleges Than 35 Years Ago
     url: https://www.nytimes.com/interactive/2017/08/24/us/affirmative-action.html
     source: New York Times
+    image_url: https://static01.nyt.com/newsgraphics/2017/08/03/affirmative-action-colleges/a40217844a0b4825f019c18d8ee74a68c15c10c8/affirmative-action-2-Artboard_3.png
 ---
