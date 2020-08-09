@@ -1,6 +1,6 @@
 ---
 title: Black people don't value education.
-title_zh: 黑人不重视教育
+title_zh: 黑人不重视教育。
 rebuttal: >-
   Where does this belief come from? Many people, including teachers, have
   attributed the achievement gap between white students and black students to
