@@ -51,4 +51,19 @@ ask_yourself_zh: |-
   我对别人有种族主义的看法吗？他们可能面临哪些障碍？
 category: Individualism
 color: "#1F0E03"
+read_more:
+  - url: https://time.com/5851792/asian-americans-black-solidarity-history/
+    link_title: The Asian American Response to Black Lives Matter Is Part of a Long,
+      Complicated History
+    image_url: https://api.time.com/wp-content/uploads/2020/06/Asian-Americans-anti-blackness-black-lives-matter.jpg?w=800&quality=85
+    source: Time
+  - link_title: "'Model Minority' Myth Again Used As A Racial Wedge Between Asians
+      And Blacks"
+    source: NPR
+    url: https://www.npr.org/sections/codeswitch/2017/04/19/524571669/model-minority-myth-again-used-as-a-racial-wedge-between-asians-and-blacks
+    image_url: https://media.npr.org/assets/img/2017/04/19/model-minority_wide-0057e0cc59ee761bbf5394a4ec3efdef12b9d298-s1600-c85.jpg
+  - link_title: What Is the Model Minority Myth?
+    source: Teaching Tolerance
+    url: https://www.tolerance.org/magazine/what-is-the-model-minority-myth
+    image_url: https://www.tolerance.org/sites/default/files/styles/hero_images_non_homepage_xl/public/2019-03/Teaching-Tolerance-race-ethnicity-027.jpg?h=4f4378cb&itok=0C2SmaL4
 ---
