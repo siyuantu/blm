@@ -36,7 +36,9 @@ read_more:
   - url: https://medium.com/@OfcrACab/confessions-of-a-former-bastard-cop-bb14d17bc759
     link_title: Confessions of a Former Bastard Cop
     source: Medium
+    image_url: https://miro.medium.com/max/1400/1*HyIaXPcqi3wl-Hz6A0vagA.jpeg
   - url: https://www.youtube.com/watch?v=Wf4cea5oObY
     link_title: "Police: Last Week Tonight with John Oliver"
     source: HBO
+    image_url: https://i.ytimg.com/vi/Wf4cea5oObY/maxresdefault.jpg
 ---
