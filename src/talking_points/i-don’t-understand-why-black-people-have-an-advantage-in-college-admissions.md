@@ -31,7 +31,7 @@ ask_yourself: Do you feel that affirmative action has taken opportunities away
   from you? What kind of support did you receive prior to that moment?
 ask_yourself_zh: 你觉得平权行动夺走了你的机会吗？
 category: Education
-color: "#B57033"
+color: "#462009"
 read_more:
   - link_title: "[1] The Myth of Reverse Racism "
     url: https://www.theatlantic.com/education/archive/2017/08/myth-of-reverse-racism/535689/
