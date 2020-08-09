@@ -27,7 +27,7 @@ ask_yourself: Have you ever stood in front of a shop for a few minutes, driven a
   there to ticket you for every infraction.
 ask_yourself_zh: 你曾经在商店前站了几分钟，开车超过限速几英里，或者游走在街巷吗？试想一下，如果一个警察在那里针对你的每一个轻微的违规行为都开出罚单。
 category: Safety
-color: "#462009"
+color: "#331707"
 read_more:
   - url: https://en.wikipedia.org/wiki/Race_and_crime_in_the_United_States
     source: Wikipedia
