@@ -29,7 +29,7 @@ content: >-
 
   1. #### I worked with a translator to convert my research from English to Chinese.
 
-  2. #### I cited U.S. news sources marked as “Most Reliable for News” (see [the Media Bias Chart](https://www.adfontesmedia.com/interactive-media-bias-chart/)). In today’s era of disinformation, these sources provide more objective, trusted reporting. Images sourced from Creative Commons.
+  2. #### I cited U.S. news sources marked as “Most Reliable for News” (see [the Media Bias Chart](https://www.adfontesmedia.com/interactive-media-bias-chart/)). In today’s era of disinformation, these sources provide more objective, trusted reporting.
 
 
   #### Please find additional resources [here](https://docs.google.com/spreadsheets/d/1bUJrgX8vspyy7YttiEC2vD0DawrpPYiZs94V0ov7qZQ/htmlview).
