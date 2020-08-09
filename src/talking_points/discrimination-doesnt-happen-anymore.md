@@ -54,13 +54,16 @@ read_more:
   - link_title: "Housing Segregation and Redlining in America: A Short History"
     source: NPR
     url: https://www.youtube.com/watch?v=O5FBJyqfoLM
+    image_url: https://i.ytimg.com/vi/O5FBJyqfoLM/maxresdefault.jpg
   - source: Wikipedia
     url: https://en.wikipedia.org/wiki/Institutional_racism
     link_title: Institutional Racism
   - link_title: "White Privilege: Unpacking the Invisible Knapsack"
     source: Peggy McIntosh
     url: https://www.racialequitytools.org/resourcefiles/mcintosh.pdf
+    image_url: https://upload.wikimedia.org/wikipedia/commons/5/5c/Peggy_McIntosh.jpg
   - url: https://www.tolerance.org/magazine/fall-2018/what-is-white-privilege-really
     source: Teaching Tolerance
     link_title: What is White Privilege, Really?
+    image_url: https://www.tolerance.org/sites/default/files/styles/hero_images_non_homepage_xl/public/2018-09/TT60-What-Is-White-Privilege-1800x1080.jpg?h=c51c103f&itok=YgMlCt39
 ---
