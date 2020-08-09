@@ -27,6 +27,7 @@ rebuttal_zh: >-
 
   当早期的教育、社会和经济制度真正公正时，我们不需要平权行动。但是，在做到这一点之前，我们需要采取平权行动来缩小少数民族和白人学生之间不公平的差距。
 background_image_url: https://live.staticflickr.com/4559/37975765284_d3e76b9c64_b.jpg
+background_image_alignment: right
 ask_yourself: Do you feel that affirmative action has taken opportunities away
   from you? What kind of support did you receive prior to that moment?
 ask_yourself_zh: 你觉得平权行动夺走了你的机会吗？
