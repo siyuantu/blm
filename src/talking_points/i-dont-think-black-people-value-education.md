@@ -23,7 +23,7 @@ rebuttal_zh: >-
 
   我们需要一个系统，为美国所有儿童提供有意义的教育机会和资金。Black Girls Code, Inneract Project, 和Hip Hop Architecture是社区教育项目的例子，这些项目向孩子们展示了更多样化的职业发展道路。
 background_image_url: https://live.staticflickr.com/65535/48101374108_de39b771b0_b.jpg
-background_image_alignment: right
+background_image_alignment: bottom
 ask_yourself: >-
   In what ways have you sought out education for yourself or your children? How
   were you able to do so?
@@ -40,12 +40,15 @@ read_more:
   - url: https://www.washingtonpost.com/posteverything/wp/2014/07/30/stop-blaming-black-parents-for-underachieving-kids/
     link_title: Stop blaming black parents for underachieving kids
     source: Washington Post
+    image_url: https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3XVOS32UPY3N3MRPXMFFOGLMWI.jpg&w=916
   - url: https://www.thisamericanlife.org/562/the-problem-we-all-live-with-part-one
     link_title: The Problem We All Live With
     source: NPR This American Life
+    image_url: https://hw3.thisamericanlife.org/sites/default/files/styles/landscape/public/episodes/images/562.png?itok=vlgIRhDe
   - url: https://www.wnycstudios.org/podcasts/radiolab/articles/g-miseducation-larry-p
     link_title: The Miseducation of Larry P
     source: WNYC Radiolab
+    image_url: https://media.wnyc.org/i/800/0/l/85/2019/06/Larryp1art.jpg
   - url: https://files.eric.ed.gov/fulltext/EJ1090572.pdf
     link_title: Do Black Families Value Education?
     source: Institute of Education Sciences
