@@ -33,7 +33,7 @@ ask_yourself_zh: |-
 
   你会要求哪些改革？
 category: Safety
-color: "#44291E"
+color: "#1F0E04"
 read_more:
   - url: https://www.youtube.com/watch?v=Wf4cea5oObY
     source: HBO
