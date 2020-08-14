@@ -22,7 +22,7 @@ background_image_alignment: bottom
 ask_yourself: Why does saying Black Lives Matter make you uncomfortable?
 ask_yourself_zh: 为什么听到“黑人生命很重要”这句话让你不舒服？
 category: Not my cause
-color: "#856252"
+color: "#C19A8F"
 read_more:
   - url: https://www.vox.com/2016/7/11/12136140/black-all-lives-matter
     link_title: Why You Should Stop Saying "All Lives Matter," explained in 9
