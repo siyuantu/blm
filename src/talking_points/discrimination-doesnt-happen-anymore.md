@@ -50,7 +50,7 @@ ask_yourself_zh: >-
 
   当你考虑别人无法左右的劣势和坐享其成的优势时，你会有什么感觉？
 category: Not my cause
-color: "#7A370F"
+color: "#A18078"
 read_more:
   - link_title: "Housing Segregation and Redlining in America: A Short History"
     source: NPR
