@@ -22,7 +22,7 @@ const TalkingPointPreview = ({ entry }) => {
       askYourself = data[`ask_yourself_${language}`];
 
       askYourselfSectionTitle = '问问自己';
-      readMoreSectionTitle = '了解更多';
+      readMoreSectionTitle = '了解更多信息';
     } else {
       ({ ask_yourself: askYourself, rebuttal, title } = data);
     }
