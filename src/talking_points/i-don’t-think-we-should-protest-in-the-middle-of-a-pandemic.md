@@ -33,7 +33,7 @@ ask_yourself: Consider how the urgency of the protests might change if you and
   in this country.
 ask_yourself_zh: 想一想，如果你和你的家人或你的种族成为这个国家警察暴行和暴力的目标，抗议的紧迫性对你来说可能会发生什么变化。
 category: Law & Order
-color: "#1F0E03"
+color: "#44291E"
 read_more:
   - source: CNN
     link_title: "[1] Over 1,000 health professionals sign a letter saying, Don't
