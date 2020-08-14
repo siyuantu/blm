@@ -35,7 +35,7 @@ ask_yourself: Which groups of people are instigating the violence? What are
   their motivations?
 ask_yourself_zh: 哪些团体在煽动暴力？他们的动机是什么？
 category: Law & Order
-color: "#1F0E03"
+color: "#44291E"
 read_more:
   - url: https://www.theatlantic.com/politics/archive/2020/06/wesley-lowery-george-floyd-minneapolis-black-lives/612391/
     link_title: "[1] Why Minneapolis Was the Breaking Point"
