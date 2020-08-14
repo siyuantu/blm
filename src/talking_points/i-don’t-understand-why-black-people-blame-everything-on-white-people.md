@@ -51,7 +51,7 @@ ask_yourself_zh: |-
 
   我对别人有种族主义的看法吗？他们可能面临哪些障碍？
 category: Individualism
-color: "#C19A8F"
+color: "#43322D"
 read_more:
   - url: https://time.com/5851792/asian-americans-black-solidarity-history/
     link_title: The Asian American Response to Black Lives Matter Is Part of a Long,
