@@ -21,7 +21,7 @@ ask_yourself_zh: |-
 
   媒体如何以不同的方式描绘有犯罪史的白人（例如Brock Turner，Dylann Roof）？
 category: Safety
-color: "#331707"
+color: "#44291E"
 read_more:
   - url: https://www.pewresearch.org/fact-tank/2020/06/03/10-things-we-know-about-race-and-policing-in-the-u-s/
     link_title: 10 things we know about race and policing in the U.S.
