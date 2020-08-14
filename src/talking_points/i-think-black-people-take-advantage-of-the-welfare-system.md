@@ -27,7 +27,7 @@ ask_yourself: Welfare comes in many forms. What do you think of when you imagine
   benefited from welfare programs?
 ask_yourself_zh: 福利有多种形式。当你想到福利计划提供什么时，你会想到什么？你或你的家庭成员如何从福利计划中受益？
 category: Financial responsibility
-color: "#C19A8F"
+color: "#5B4741"
 read_more:
   - link_title: "[1] Busting the Myth of 'Welfare Makes People Lazy'"
     url: https://www.theatlantic.com/business/archive/2018/03/welfare-childhood/555119/
