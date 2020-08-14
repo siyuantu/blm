@@ -32,7 +32,7 @@ ask_yourself: Why, in 2020, in the richest country in the world, do people feel
   the need to acquire possessions through looting?
 ask_yourself_zh: 为什么在2020年，在这个世界上最富有的国家，人们会觉得有必要通过抢劫来获取财产？
 category: Law & Order
-color: "#1F0E03"
+color: "#44291E"
 read_more:
   - link_title: "[1] Why People Loot"
     url: https://www.theatlantic.com/health/archive/2020/06/why-people-loot/612577/
