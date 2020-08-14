@@ -53,7 +53,7 @@ ask_yourself_zh: |-
 
   试着寻找根本原因： 单亲家庭的一些系统性原因是什么？
 category: Family
-color: "#8A5413"
+color: "#856252"
 read_more:
   - link_title: "[1] The Origins of African-American Family Structure"
     source: University of Minnesota
