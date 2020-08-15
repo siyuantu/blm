@@ -19,6 +19,7 @@ const query = graphql`
           background_image_alignment
           background_image_url
           read_more {
+            image_url
             link_title
             source
             url

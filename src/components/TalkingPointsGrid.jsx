@@ -336,7 +336,9 @@ const TalkingPointsGrid = ({ maxBlockSizePx, minBlockSizePx }) => {
             }
             isSingleColumnLayout={availableWidthPx < 840}
             readMoreLinks={selectedTalkingPoint.read_more}
-            readMoreSectionTitle={language !== 'en' ? '了解更多' : undefined}
+            readMoreSectionTitle={
+              language !== 'en' ? '了解更多信息' : undefined
+            }
             ref={handleRebuttalPaneRef}
             tabIndex={0}
             textColor={selectedTalkingPoint.contrastColor}
