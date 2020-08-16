@@ -66,19 +66,25 @@ const RebuttalPane = React.forwardRef(
                   <h2>{readMoreSectionTitle}</h2>
                   <ul className="rebuttal-pane__read-more-links">
                     {/* eslint-disable camelcase */}
-                    {readMoreLinks.map(({ url, link_title, source }) => (
-                      <li>
-                        <div className="rebuttal-pane__read-more-link">
-                          <a href={url}>
-                            <div className="rebuttal-pane__read-more-link-image" />
-                          </a>
-                          <div>
-                            <a href={url}>{link_title}</a>
-                            <span>{` (${source})`}</span>
+                    {readMoreLinks.map(
+                      ({ image_url, url, link_title, source }) => (
+                        <li key={url}>
+                          <div className="rebuttal-pane__read-more-link">
+                            <a href={url}>
+                              <div className="rebuttal-pane__read-more-link-image">
+                                {image_url && (
+                                  <img alt={link_title} src={image_url} />
+                                )}
+                              </div>
+                            </a>
+                            <div>
+                              <a href={url}>{link_title}</a>
+                              <span>{` (${source})`}</span>
+                            </div>
                           </div>
-                        </div>
-                      </li>
-                    ))}
+                        </li>
+                      )
+                    )}
                     {/* eslint-enable camelcase */}
                   </ul>
                 </>
